@@ -1,0 +1,864 @@
+title
+"Job Size: Min (Core Count): by PI"
+parameters
+
+start,end
+2015-04-01,2015-04-30
+---------
+PI,"Job Size: Min (Core Count)"
+"Harman, Todd - U Utah",16384
+"McKinney, Jonathan C. - U Maryland",4096
+"Fang, Fang - NCAR",3600
+"Jaberi, Farhad A - Michigan State U",2400
+"Srinivasan, Sundar - U Washington",1920
+"Uzun, Ali - Florida State U",1536
+"Zeng, Yong - U Missouri, Kansas City",1536
+"Gomez, Facundo A - Michigan State U",1024
+"Simon, Jake - Southwest Res Inst",1024
+"Ngoko Djiokap, Jean Marcel - U Nebraska, Lincoln",912
+"Yao, Xiaohui - IUPUI",800
+"Akis, Richard - Arizona State U",736
+"Han, Yong - Iowa State U",608
+"Subramanian, Aneesh - SIO",560
+"Abernathey, Ryan - Columbia U",512
+"Asadi, Ebrahim - Missouri S&T",512
+"Fan, Shanhui - Stanford U",512
+"Zou, Jian  - WPI",512
+"Sotomayor, Marcos - Ohio State U",480
+"Zhu, Cheng - Georgia Tech",480
+"Gao, Huajian - Brown U",400
+"Motamarri, Phani - U Michigan",400
+"Zgid, Dominika Kamila - U Michigan",400
+"Bykhovskaia, Maria - Central U Caribbean",384
+"Liebling, Steven - Long Island U",384
+"Raeder, Joachim - U New Hampshire",368
+"Jagota, Anand - Lehigh U",320
+"LeBard, David - Yeshiva U",320
+"Madura, Jeffry D. - Duquesne U",320
+"Kogut, John B. - U Maryland",288
+"Blanquart, Guillaume - Caltech",256
+"Boylan-Kolchin, Michael  - U Maryland",256
+"Dempski, Robert E - WPI",256
+"Feig, Michael - Michigan State U",256
+"Hall, David Matthew - CU Boulder",256
+"Heinz, Sebastian - U Wisconsin-Madison",256
+"Helenbrook, Brian - Clarkson U",256
+"Kane, Michael John - Yale U",256
+"Kaznessis, Yiannis N. - U Minn",256
+"Liu, Philip L-F. - Cornell U",256
+"Mondal, Sayan - Weill Cornell Med College",256
+"Narayan, Ramesh - Harvard U",256
+"Patricola, Christina M - Texas A&M",256
+"Pritchard, Michael - UC Irvine",256
+"Pritchett, Philip L. - UCLA",256
+"Ramaprabhu, Praveen Kumar - UNC Charlotte",256
+"Reynolds, Christopher Stephen - U Maryland",256
+"Shen, Chengcai - Smithsonian Astrophys Obs",256
+"Smith, Britton D - U Edinburgh",256
+"Thornton, Katsuyo - U Michigan",256
+"Misra, Vasubandhu - Florida State U",240
+"Zheng, Lianyuan - U South Florida",240
+"Fragile, Patrick C - College of Charleston",192
+"Kim, Ji-hoon - Caltech",192
+"Mahesh, Krishnan - U Minn",192
+"Mason, Christopher Edward - Weill Cornell Med College",192
+"Park, Kyungwha - Virginia Tech",192
+"li, yaping  - U Tulsa",192
+"Doubleday, Charles - Columbia U",176
+"Sweeney, Alison M - U Pennsylvania",176
+"Burton, Zachary F - Michigan State U",160
+"Banavali, Nilesh K - Wadsworth Ctr",144
+"Spitkovsky, Anatoly - Princeton U",144
+"Adrian, Ronald John - Arizona State U",128
+"Berlind, Andreas - Vanderbilt U",128
+"Boudker, Olga - Weill Cornell Med College",128
+"Condron, Alan - U Mass, Amherst",128
+"Cooper, Catherine Marguerite - Washington State U",128
+"Dhakal, Subas - Syracuse U",128
+"Fisher, Robert T - U Mass, Dartmouth",128
+"Kashi, Amit - U Minn",128
+"Levine, Zachary - UC Santa Barbara",128
+"Llinas, Miguel - CMU",128
+"Loverde, Sharon - CUNY",128
+"MacLeod, Morgan Elowe - UC Santa Cruz",128
+"Marrocchelli, Dario - MIT",128
+"Medvedeva, Julia E. - Missouri S&T",128
+"Mehdizadeh, Amirfarhang - Penn State U",128
+"Mueller, Timothy Keith - Johns Hopkins U",128
+"Niemann, Christoph - UCLA",128
+"Soltesz, Ivan - UC Irvine",128
+"Wang, Yang - CMU",128
+"Zarif-Khalili-Yazdani, Alireza - Brown U",128
+"Chrispell, John Christopher - Indiana U of Penn",96
+"Naylor, Jason - Purdue U",96
+"Reid, Keon Andre - Emory U",96
+"Stillman, Jonathon H - San Francisco State U",96
+"Volkov, Alexey N. - U Alabama",96
+"Wiens, Douglas A - Washington U",96
+"Farley, Robert Alan - USC",80
+"Fleming, Karen - Johns Hopkins U",80
+"Huang, Kerwyn Casey - Stanford U",80
+"Mendez Polanco, Miguel Angel - MIT",80
+"Richardson, Chris - Elon U",80
+"Watkins, Stephan Lloyd - Oregon State U",80
+"Wei, Tao - Lamar U",80
+"Barraza-Lopez, Salvador - U Arkansas",64
+"Broyde, Suse - NYU",64
+"Campbell, Robert Lee - Penn State Behrend",64
+"Chew, Huck Beng - UIUC",64
+"Connor, Edward F - San Francisco State U",64
+"Dayal, Kaushik - CMU",64
+"Deike, Luc J.R - SIO",64
+"Dutt, Meenakshi - Rutgers U",64
+"Emerick, Andrew James - Columbia U",64
+"Firouzi, Mahnaz  - Stanford U",64
+"Garcia, Adrian  - UC Irvine",64
+"Gaughan, Christopher - NSF",64
+"Harrigan, Timothy P. - Johns Hopkins U",64
+"Hickman, Albert Peet - Lehigh U",64
+"Johnsen, Eric - U Michigan",64
+"Johnson, Erin R - UC Merced",64
+"Kennefick, Daniel John - U Arkansas",64
+"Keten, Sinan - Northwestern U",64
+"Kim, Kyung-Suk - Brown U",64
+"Klie, Robert F - U Illinois, Chicago",64
+"Langer, Robert Samuel - MIT",64
+"Le, Duy - U Central Florida",64
+"Lesage, Anne-Cecile - Texas Tech U",64
+"Lo, Cynthia S - Washington U",64
+"Offner, Stella S - U Mass, Amherst",64
+"Ozel, Feryal - U Arizona",64
+"Parris, Paul Ernest - Missouri S&T",64
+"Peet, Yulia  - Arizona State U",64
+"Pope, Stephen B. - Cornell U",64
+"Poulos, Thomas - UC Irvine",64
+"Romero, Aldo Humberto - West Virginia U",64
+"Samuel, Tabitha - U Tennessee",64
+"Sant, Gaurav N - UCLA",64
+"Shen, Tongye - U Tennessee",64
+"Sinno, Talid - U Pennsylvania",64
+"Sironi, Lorenzo - Harvard U",64
+"Tsyshevsky, Roman - U Maryland",64
+"Valocchi, Albert J. - UIUC",64
+"Wang, Chen Santillan - UC Riverside",64
+"Welty, Claire - U Maryland, Baltimore Co",64
+"Wilson, Robert E - SUNY Stony Brook",64
+"Zhang, Yuyang - ORNL",64
+"Aksimentiev, Aleksei - UIUC",48
+"Bourdin, Blaise - Louisiana State U",48
+"Brown, Laura E - Michigan Tech",48
+"Choudhury, Pabitra - New Mexico Tech",48
+"Dos Santos, Elton Jose - Stanford U",48
+"Gao, Wei  - Northwestern U",48
+"Jayaraman, Arthi - U Delaware",48
+"Logan, Cheryl A - CSU-Monterey Bay",48
+"Martinez, Luis A - UPR Mayaguez",48
+"Mazloff, Matthew R. - SIO",48
+"McCourt, Michael - Harvard U",48
+"Pogorelov, Taras - UIUC",48
+"Trinkle, Dallas R. - UIUC",48
+"Wilcox, Jennifer - Stanford U",48
+"Yildiz, Bilge - MIT",48
+"Hasenfratz, Anna - CU Boulder",40
+"Abrams, Binyomin - Boston U",32
+"Alexander-Katz, Alfredo - MIT",32
+"Arunachalam, Sarav - UNC",32
+"Broadbelt, Linda - Northwestern U",32
+"Cessi, Paola - SIO",32
+"Chen, Long-Qing - Penn State U",32
+"Cheng, Yu-Ting - Johns Hopkins U",32
+"Chiu, Wah - Baylor College of Med",32
+"Ciliberto, Federico - U Virginia",32
+"Clemens, Kristina A - UC Berkeley",32
+"Cronin, Stephen B. - USC",32
+"Dalcanton, Julianne - U Washington",32
+"Dutta, Indranath  - Washington State U",32
+"Friedman, Peter A - U Pittsburgh Sch of Med",32
+"Gennis, Robert B - UIUC",32
+"Hansen, Charles D. - U Utah",32
+"Holley-Bockelmann, Kelly - Vanderbilt U",32
+"Jack, Mark A - Florida A&M U",32
+"Keating, Brian - UC San Diego",32
+"Keres, Dusan - UC San Diego",32
+"Kim, Byoung-Do - Harvard Med Sch",32
+"Kindt, James - Emory U",32
+"Klinge, Sebastian N - Rockefeller U",32
+"Koizumi, Hideya - Arkansas State U",32
+"Kummel, Andrew - UC San Diego",32
+"Laguna, Pablo - Georgia Tech",32
+"Lim, Marisa C - SUNY Stony Brook",32
+"Lueptow, Richard M. - Northwestern U",32
+"Mac Low, Mordecai-Mark - AMNH",32
+"Marean, Curtis - Arizona State U",32
+"Masud, Arif - UIUC",32
+"Matysiak, Silvina - U Maryland",32
+"McQuinn, Matthew Judd - U Washington",32
+"Mertz, Blake - West Virginia U",32
+"Nan, Xiaolin - Oregon Health & Sci U",32
+"Onuchic, Jose - Rice U",32
+"Ozturk, Birol  - Morgan State U",32
+"Paddison, Stephen J - U Tennessee",32
+"Pegden, Wesley - CMU",32
+"Phares, Alain Joseph - Villanova U",32
+"Reed, Patrick M - Cornell U",32
+"Sheikhi, Reza H - Northeastern U",32
+"Sitti, Metin - CMU",32
+"Song, Kevin - U Chicago",32
+"Staton, Margaret Elizabeth - U Tennessee",32
+"Subramaniam, Shankar - Iowa State U",32
+"Thomas, Wendy E. - U Washington",32
+"Timko, Michael Paul - U Virginia",32
+"Urbanc, Brigita - Drexel U",32
+"Vladimirova, Natalia - U New Mexico",32
+"Wang, Xianqiao - U Georgia",32
+"Weinstein, Harel - Weill Cornell Med College",32
+"Weng, Jing-Ke - Whitehead Inst for Biomed Res",32
+"Werner, Gregory - CU Boulder",32
+"West, Ana  - Mercer U",32
+"Westmoreland, Phillip R - NC State U",32
+"Wolter, Nicole - UC San Diego",32
+"Yakobson, Boris I - Rice U",32
+"zheng, xiaoning  - MIT",32
+"Berger, Robert - W Washington U",20
+"Carretero, Ricardo  - San Diego State U",20
+"Gallicchio, Emilio - CUNY Brooklyn College",20
+"Greene, Christopher H. - Purdue U",20
+"Hsu, Tian-Jian - U Delaware",20
+"Jankowski, Eric - NREL",20
+"Jayaraman, Balaji - Penn State U",20
+"Kulik, Heather Janine - MIT",20
+"Kulkarni, Milind - Purdue U",20
+"Kumar, Abhishek  - ORNL",20
+"Levine, Benjamin G - Michigan State U",20
+"Liu, Honggao - Louisiana State U",20
+"Loftis, Bruce - CU Boulder",20
+"McGill, Brian James - U Maine",20
+"Palen, Brock - U Michigan",20
+"Pujari, Sumiran  - U Kentucky",20
+"Rivera, Wilson  - UPR Mayaguez",20
+"Singh, Parampreet  - Louisiana State U",20
+"Waag, Robert C - U Rochester",20
+"Wang, Lee-Ping - Stanford U",20
+"Woolf, Thomas B - Johns Hopkins U",20
+"Yakushin, Igor - Penn State U",20
+"sansoz, frederic - U Vermont",20
+"Abraham, John - Purdue U",16
+"Abrams, Cameron - Drexel U",16
+"Abu-Sufah, Walid A - UIUC",16
+"Acharya, Amit - CMU",16
+"Acuna, Edgar  - UPR Mayaguez",16
+"Agrawal, Gagan - Ohio State U",16
+"Ahmed, Shaikh S - SIU Carbondale",16
+"Aidun, Cyrus K - Georgia Tech",16
+"Akhavan, Rayhaneh - U Michigan",16
+"Al-Qadi, Imad L. - UIUC",16
+"Al-Saidi, Wissam Abdo - U Pittsburgh",16
+"Alexandrova, Anastassia - UCLA",16
+"Allen, Scott Edward - UNC",16
+"Allison, Jason Robert - TACC",16
+"Almeida, Sergio Fabian - UT El Paso",16
+"Altintas, Ilkay - SDSC",16
+"Aluru, Narayana R - UIUC",16
+"Amaro, Rommie E - UC San Diego",16
+"Anderson, Steven Edward - Texas A&M",16
+"Anderson, Stuart Bruce - Caltech",16
+"Andriamanalimanana, Bruno  - SUNYIT",16
+"Andricioaei, Ioan - UC Irvine",16
+"Apte, Sourabh V - Oregon State U",16
+"Aristilde, Ludmilla  - Cornell U",16
+"Armentrout, Peter B - U Utah",16
+"Armstrong, Anne Frances - UC Davis",16
+"Arolla, Sunil - Cornell U",16
+"Arora, Ritu - UT Austin",16
+"Aspuru-Guzik, Alan - Harvard U",16
+"Awasthi, Amnaya - U Florida",16
+"Babaee, Hessam - MIT",16
+"Baden, Scott B. - UC San Diego",16
+"Bagchi, Prosenjit - Rutgers U",16
+"Bandaru, Varaprasad  - UC Davis",16
+"Bao, Shaowu - Coastal Carolina U",16
+"Baptista, Antonio  - Oregon Health & Sci U",16
+"Bar Lev, Yevgeny - Columbia U",16
+"Barbone, Paul - Boston U",16
+"Bartschat, Klaus - Drake U",16
+"Baruah, Tunna - UT El Paso",16
+"Bassman, Lori - Harvey Mudd College",16
+"Baumgart, Tobias  - U Pennsylvania",16
+"Beckham, Gregg T - NREL",16
+"Beckstein, Oliver - Arizona State U",16
+"Beran, Gregory - UC Riverside",16
+"Bergantz, George Walter - U Washington",16
+"Bergman, Robert G - UC Berkeley",16
+"Bernard, Peter S. - U Maryland",16
+"Berne, Bruce J. - Columbia U",16
+"Berzins, Martin - U Utah",16
+"Bhaganagar, Kiran - UT San Antonio",16
+"Bhatta, Ram S - U Akron",16
+"Billington, Sarah L - Stanford U",16
+"Biringen, Sedat - CU Boulder",16
+"Birke, Ronald Lewis - CUNY City College",16
+"Bittner, Noelle Kristen Jeffery - UC Berkeley",16
+"Blondin, John M. - NC State U",16
+"Bodony, Daniel Joseph - UIUC",16
+"Boldyrev, Stanislav - U Wisconsin-Madison",16
+"Bovik, Alan Conrad - UT Austin",16
+"Braatz, Richard - MIT",16
+"Brannen, Kathleen Merritt - U Tennessee",16
+"Brannigan, Grace - Rutgers U",16
+"Bretherton, Christopher Stephen - U Washington",16
+"Brummell, Nicholas H - UC Santa Cruz",16
+"Brunner, Robert J. - UIUC",16
+"Bryan, Greg L. - Columbia U",16
+"Bucci, Giovanna  - MIT",16
+"Buchwald, James Richard - RPI",16
+"Buehler, Markus J - MIT",16
+"Burger, Virginia M - MIT",16
+"Cai, Dong - U Houston",16
+"Campos, Luis M - Columbia U",16
+"Cannon, John Francis - U Missouri, Columbia",16
+"Caprez, Adam - U Nebraska, Lincoln",16
+"Cargile, Phillip Andrew - Harvard U",16
+"Carrington, Laura - UC San Diego",16
+"Casabianca, Jodi  - UT Austin",16
+"Case, David A - Rutgers U",16
+"Casey, Richard Michael - Colorado State U",16
+"Castillo-Chara, Jairo - Fayetteville State U",16
+"Ceder, Gerbrand - MIT",16
+"Ceperley, David M - UIUC",16
+"Chams, Tarek  - SUNY Binghamton",16
+"Chan, Maria - ANL",16
+"Chandran, Uma - U Pittsburgh",16
+"Chang, Philip - U Wisconsin-Milwaukee",16
+"Chang, Ping - Texas A&M",16
+"Cheatham, Thomas E. - U Utah",16
+"Chelikowsky, James R - UT Austin",16
+"Chen, Hanning - George Washington U",16
+"Chen, Jianhan - Kansas State U",16
+"Chen, Min - Rice U",16
+"Cheng, Tianle - NETL",16
+"Cheung, Margaret S. - U Houston",16
+"Chong, Lillian T - U Pittsburgh",16
+"Chow, Edmond - Georgia Tech",16
+"Chowdhury, Rezaul Alam - SUNY Stony Brook",16
+"Chrisochoides, Nikos - Old Dominion U",16
+"Clancy, Paulette  - Cornell U",16
+"Cohen, Marvin L. - UC Berkeley",16
+"Cohen, Ronald E. - CIW",16
+"Collins, David - Florida State U",16
+"Cooperman, Gene - Northeastern U",16
+"Coridan, Robert - Caltech",16
+"Cosden, Ian A - Princeton U",16
+"Cousins, Kimberley R - CSU-San Bernardino",16
+"Cowburn, David - Einstein College of Med",16
+"Craig, Stephen - Duke U",16
+"Cui, Qiang - U Wisconsin-Madison",16
+"Cui, Shengting - U Tennessee",16
+"Cui, Yifeng - UC San Diego",16
+"Danko, Charles G - Cornell U",16
+"Dawson, Clinton N - UT Austin",16
+"Debenedetti, Pablo G - Princeton U",16
+"Del Vento, Davide - NCAR",16
+"Demeler, Borries - UT Hlth Sci Ctr San Antonio",16
+"Dennis, John Mauff - NCAR",16
+"Denolle, Marine Anne Marie - SIO",16
+"Deshlahra, Prashant - UC Berkeley",16
+"Detmold, William - MIT",16
+"Dibble, Theodore S. - SUNY ESF",16
+"Dickens, Phillip Mathew - U Maine",16
+"Dinescu, Adriana - Wilkes U",16
+"Dinolfo, Peter H. - RPI",16
+"Dongare, Avinash M - U Connecticut",16
+"Donnell, David Michael - The Citadel",16
+"Donzis, Diego A. - Texas A&M",16
+"Dorland, William D - U Maryland",16
+"Downar, Thomas J. - U Michigan",16
+"Duan, Huaiyu - U New Mexico",16
+"Dubin, Daniel Herschel - UC San Diego",16
+"Duffy, Alison Guidry - U Washington",16
+"Durbin, Paul - Iowa State U",16
+"Dutt, Shantanu  - U Illinois, Chicago",16
+"Ebalunode, Jerry - U Houston",16
+"Ebrahimi, Davoud - MIT",16
+"Ecker, Joseph - Salk Institute",16
+"Edirisinghe, Neranjan - Georgia State U",16
+"Egolfopoulos, Fokion - USC",16
+"El-Awady, Jaafar A - Johns Hopkins U",16
+"El-Khoury, Patrick Zakhia - PNL",16
+"Escobedo, Fernando - Cornell U",16
+"Eshraghi Kakhki, Mohsen - CSU-Los Angeles",16
+"Espinosa, Horacio Dante - Northwestern U",16
+"Evans, Charles R. - UNC",16
+"Falgout, Jeff - USGS",16
+"Fang, Hanming - U Pennsylvania",16
+"Fatahalian, Kayvon - CMU",16
+"Faucher-Giguere, Claude-Andre - Northwestern U",16
+"Feigenson, Gerald W - Cornell U",16
+"Fichthorn, Kristen - Penn State U",16
+"Filip, Grzegorz Piotr - U Michigan",16
+"Filizola, Marta - Mt Sinai Sch of Med",16
+"Frank, Adam - U Rochester",16
+"Freddolino, Peter - Columbia U",16
+"Fu, Chao - U Wisconsin-Madison",16
+"Fu, Iris Wing Yin - UC Irvine",16
+"Ganapathysubramanian, Baskar - Iowa State U",16
+"Garcia, Angel E - RPI",16
+"Gardoni, Paolo - UIUC",16
+"Garner, Robert N - U Incarnate Word",16
+"Gazula, Vikram - U Kentucky",16
+"Ge, Xiaoxia - CUNY City College",16
+"Gharakhani, Adrin - Applied Sci Res",16
+"Gibou, Frederic - UC Santa Barbara",16
+"Giebink, Noel C. - Penn State Mont Alto",16
+"Gilbert, Donald - Indiana U",16
+"Gilmore, Matthew - U North Dakota",16
+"Glotzer, Sharon C - U Michigan",16
+"Gobbert, Matthias Klaus - U Maryland, Baltimore Co",16
+"Goetz, Andreas Walter - UC San Diego",16
+"Gomez, Enrique Alberto - W Carolina U",16
+"Gonzalez, Ana C - UPR Mayaguez",16
+"Goodwin, Andrew Pratt - CU Boulder",16
+"Gordon, Karl Douglas - STScI",16
+"Grabow, Lars Christian - U Houston",16
+"Gray, Jeffrey J - Johns Hopkins U",16
+"Greer, Edyta M. - CUNY Baruch College",16
+"Greif, Thomas - Harvard U",16
+"Grossman, Jeffrey C. - MIT",16
+"Gu, Qing - UC San Diego",16
+"Gubbins, David - SIO",16
+"Gumbart, James - Georgia Tech",16
+"Gurbuz, Elif  - UC Berkeley",16
+"Gygi, Francois - UC Davis",16
+"Hacker, Thomas - Purdue U",16
+"Hagan, Michael Francis - Brandeis U",16
+"Hagen, Scott Charles - U Central Florida",16
+"Haglund, Richard Forsberg - Vanderbilt U",16
+"Haiman, Zoltan - Columbia U",16
+"Hajjar, Jerome F. - Northeastern U",16
+"Hall, Carol - NC State U",16
+"Hallman, Eric - CU Boulder",16
+"Hamann, Christian - Albright College",16
+"Hammes-Schiffer, Sharon - UIUC",16
+"Hargrove, Paul Hamilton - LBNL",16
+"Harrison, Julia - U Utah",16
+"Hawley, John F. - U Virginia",16
+"He, Hongshan - Eastern Illinois U",16
+"Hennig, Richard G. - U Florida",16
+"Hernandez, Rigoberto - Georgia Tech",16
+"Heyden, Andreas - U South Carolina",16
+"Hill, Alex S - Haverford College",16
+"Hill, David Foster - Oregon State U",16
+"Hills, Matthew - U Utah",16
+"Hirschi, Jennifer Sue - SUNY Binghamton",16
+"Hocky, Glen - Columbia U",16
+"Hofert, Joe  - Indiana Wesleyan U",16
+"Hoffman, Gerald - Edinboro U",16
+"Hoffman, Matthew - RIT",16
+"Holt, William E. - SUNY Stony Brook",16
+"Hong, Sampyo - U Central Florida",16
+"Hopkins, Philip F - Caltech",16
+"Houk, Kendall N - UCLA",16
+"Howat, Ian  - Ohio State U",16
+"Howes, Gregory G - U Iowa",16
+"Howison, Mark - Brown U",16
+"Huang, Bohua - George Mason U",16
+"Hummels, Cameron - U Arizona",16
+"Huynh, Mioy T - UIUC",16
+"Höhna, Sebastian  - UC Berkeley",16
+"Ichiye, Toshiko - Georgetown U",16
+"Ilich, Peter - St. John's U",16
+"Im, Wonpil - U Kansas",16
+"Indireshkumar, Keshavamurthy - Harvard U",16
+"Indiviglio, Frank M - NOAA",16
+"Ismail-Beigi, Sohrab - Yale U",16
+"Ivanov, Ivaylo - Georgia State U",16
+"Jadaun, Priya  - Cornell U",16
+"Jakowski, Jacek - U Tennessee",16
+"James, Douglas Leonard - Cornell U",16
+"Jawaheer, Damini  - Children's Hospital Oakland",16
+"Jeffries-EL, Malka - Iowa State U",16
+"Jensen, Lasse - Penn State U",16
+"Jewett, Brian F - UIUC",16
+"Jha, Shantenu - Rutgers U",16
+"Jin, Guangxu  - Wake Forest Sch of Med",16
+"Jin, Jian-Ming - UIUC",16
+"Johnson, Margaret Ellen - Johns Hopkins U",16
+"Jones, Matthew D. - SUNY Buffalo",16
+"Jordan, Thomas H. - USC",16
+"Kaiser, Hartmut - Louisiana State U",16
+"Kammel, Peter - U Washington",16
+"Kandemir, Mahmut Taylan - Penn State U",16
+"Kaplan, Michael Samuel Cruz - USC",16
+"Karanicolas, John - U Kansas",16
+"Karna, Tuomas Petteri - Oregon Health & Sci U",16
+"Kaxiras, Efthimios - Harvard U",16
+"Keaveny, Tony M. - UC Berkeley",16
+"Kellogg, Louise H - UC Davis",16
+"Kennedy, Graeme - Georgia Tech",16
+"Kettimuthu, Rajkumar - ANL",16
+"Keutzer, Kurt  - UC Berkeley",16
+"Khaldi, Dounia - U Houston",16
+"Kiefer, Boris - NM State U",16
+"Kim, John - UCLA",16
+"Kingsford, Carl  - CMU",16
+"Kirschner, Denise - U Michigan",16
+"Klauda, Jeffery B. - U Maryland",16
+"Klein, Richard I. - UC Berkeley",16
+"Klos, Jacek - U Maryland",16
+"Koenig, Peter - Procter & Gamble",16
+"Kolpak, Alexie - MIT",16
+"Kozlowski, Marisa - U Pennsylvania",16
+"Kritsuk, Alexei - UC San Diego",16
+"Kubis, Tillmann - Purdue U",16
+"Kumashiro, Kristin K - U Hawaii, Manoa",16
+"Kurapov, Alexander - Oregon State U",16
+"Lake, Roger K - UC Riverside",16
+"Lambrecht, Daniel S - U Pittsburgh",16
+"Landau, David P - U Georgia",16
+"Landis, Michael  - UC Berkeley",16
+"Lane, Rob - Columbia U",16
+"Larson, Ronald G. - U Michigan",16
+"Latour Jr., Robert A. - Clemson U",16
+"Laurent, Louise - UC San Diego",16
+"Laursen, Siris Odin - U Tennessee",16
+"Leszczynski, Jerzy - Jackson State U",16
+"Levy, Ronald M - Rutgers U",16
+"Li, Fuhai - Methodist Hospital System",16
+"Li, Jianing - U Vermont",16
+"Liang, Zhi - RPI",16
+"Lieuwen, Timothy Charles - Georgia Tech",16
+"Lilly, Taylor Clark - CU Colorado Springs",16
+"Lin, Ching-long - U Iowa",16
+"Lin, Enqiang - Rutgers U",16
+"Lin, Hai - CU Denver",16
+"Lin, Xi - Boston U",16
+"Liu, Don - Louisiana Tech",16
+"Liu, Keh-Fei - U Kentucky",16
+"Liu, Lijun - UIUC",16
+"Liu, Xiaofeng - Penn State U",16
+"Liu, Zi-Kui - Penn State U",16
+"Llebot, Clara - Oregon Health & Sci U",16
+"Llovet, Pol - Montana State U",16
+"Londergan, Casey H - Haverford College",16
+"Louie, Janis  - U Utah",16
+"Lousto, Carlos - RIT",16
+"Lu, Chang-Tsan  - U Mass, Amherst",16
+"Luo, Haoxiang - Vanderbilt U",16
+"Luo, Tengfei - U Notre Dame",16
+"Luo, Yun - U Chicago",16
+"Luthey-Schulten, Zaida - UIUC",16
+"Lyman, Edward - U Delaware",16
+"Ma, Jianpeng - Baylor College of Med",16
+"Ma, Ping - U Georgia",16
+"MacKerell, Jr., Alexander D. - U Maryland, Baltimore Co",16
+"Macdonald, Janet  - Vanderbilt U",16
+"Madrid, Marcela - PSC",16
+"Maidment, David Robert - UT Austin",16
+"Majumdar, Amitava - UC San Diego",16
+"Makhatadze, George I - RPI",16
+"Maki, Kevin - U Michigan",16
+"Maliar, Serguei - Stanford U",16
+"Manz, Thomas A. - NM State U",16
+"Marcus, Philip Stephen - UC Berkeley",16
+"Marinacci, Federico - MIT",16
+"Marsden, Alison Lesley - UC San Diego",16
+"Martin, Tye - U New Mexico",16
+"Martins, Joaquim - U Michigan",16
+"Massey, Steven Edward - UPR Rio Piedras",16
+"Masunov, Artem - U Central Florida",16
+"Matsika, Spiridoula - Temple U",16
+"Matyushov, Dmitry V - Arizona State U",16
+"May, Eric Robert - U Connecticut",16
+"May, Michael Ryan - UC Davis",16
+"McCammon, James Andrew - UC San Diego",16
+"McCullagh, Martin - Colorado State U",16
+"McDevitt, Brian  - Boise State U",16
+"McDowell, David L. - Georgia Tech",16
+"McGovern, Amy - U Oklahoma",16
+"McKay, John  - Colorado State U",16
+"McWilliams, James C. - UCLA",16
+"Mehringer, Susan - Cornell U",16
+"Mellor-Crummey, John Michael - Rice U",16
+"Mendenhall, Ruby - UIUC",16
+"Mendes, Celso Luiz - UIUC",16
+"Meneses, Esteban - U Pittsburgh",16
+"Meng, Ying Shirley - UC San Diego",16
+"Metcalfe, Travis - Space Sci Inst",16
+"Miao, Maosheng - UC Santa Barbara",16
+"Miller, Michael I - Johns Hopkins U",16
+"Milletti, Maria C. - Eastern Michigan U",16
+"Milner, Scott Thomas - Penn State U",16
+"Minton, Timothy K - Montana State U",16
+"Mitas, Lubos - NC State U",16
+"Mittal, Jeetain - Lehigh U",16
+"Mittal, Rajat - Johns Hopkins U",16
+"Mochena, Mogus D. - Florida A&M U",16
+"Moehlis, Jeff - UC Santa Barbara",16
+"Mofrad, Mohammad R. K. - UC Berkeley",16
+"Mohamed, Sayeed - Arizona State U",16
+"Mon, Kin K - U Georgia",16
+"Mondal, Jagannath - Columbia U",16
+"Monismith, David Richard - NW Missouri State U",16
+"Moore, Richard - UC San Diego",16
+"Moore, Shirley Victoria - UT El Paso",16
+"Morgan, Dane - U Wisconsin-Madison",16
+"Morse, David - U Minn",16
+"Musgrave, Charles B. - CU Boulder",16
+"Nachman, Michael W - UC Berkeley",16
+"Nangia, Shikha - Syracuse U",16
+"Navarro, John-Paul - ANL",16
+"Neilson, James Richmond - Colorado State U",16
+"Nerenberg, Paul Samuel - Caltech",16
+"Nguyen, Hung D - UC Irvine",16
+"Nikolic, Branislav - U Delaware",16
+"Nishikawa, Ken-Ichi - U Alabama, Huntsville",16
+"Norman, Michael L. - UC San Diego",16
+"Notaros, Branislav  - Colorado State U",16
+"O'Leary, Ryan - UC Berkeley",16
+"O'Shea, Brian W. - Michigan State U",16
+"Obradovich, Nicholas - UC San Diego",16
+"Oh, Siang Peng - UC Santa Barbara",16
+"Olatunji-Ojo, Olayinka Ayodamola - UC Berkeley",16
+"Oleynik, Ivan - U South Florida",16
+"Olson, Lorraine G. - Rose-Hulman Tech",16
+"Omar, Ahmad K - Caltech",16
+"Onyisi, Peter - UT Austin",16
+"Oppenheim, Meers - Boston U",16
+"Ott, Christian David - Caltech",16
+"Oviedo, Maria Belen - UC Riverside",16
+"Pacheco, Alexander - Lehigh U",16
+"Padak, Bihter - U South Carolina",16
+"Paesani, Francesco - UC San Diego",16
+"Panchenko, Anna - NIH",16
+"Pande, Santosh - Georgia Tech",16
+"Panoff, Robert M - Shodor",16
+"Papavassiliou, Dimitrios V - U Oklahoma",16
+"Parast, Mana M - UC San Diego",16
+"Park, Jeho - Harvey Mudd College",16
+"Perot, Blair - U Mass, Amherst",16
+"Pettitt, Bernard Montgomery - UT Med Branch",16
+"Pierce, Marlon - Indiana U",16
+"Pillepich, Annalisa  - Harvard U",16
+"Pillsbury, Sarah-Jane Frankland - St Vincent College",16
+"Pirkelbauer, Peter  - U Alabama, Birmingham",16
+"Pisciuneri, Patrick - U Pittsburgh",16
+"Plotnikov, Nikolay - Stanford U",16
+"Pogorelov, Nikolai - U Alabama, Huntsville",16
+"Pongkitiwanichakul, Peera - U Chicago",16
+"Pop, Mihai  - U Maryland",16
+"Pretorius, Frans - Princeton U",16
+"Pritham, Ellen J - U Utah",16
+"Prives, Carol - Columbia U",16
+"Prytkova, Vera Dmitrievna - UC Irvine",16
+"Pueschel, Moritz J - U Wisconsin-Madison",16
+"Puzyrev, Yevgeniy - Vanderbilt U",16
+"Qi, Xin - Rutgers U",16
+"Qian, Yu - Venter Inst",16
+"Qiao, Bin - UC San Diego",16
+"Qiao, Li  - Purdue U",16
+"Qin, Sanbo  - Florida State U",16
+"Quataert, Eliot - UC Berkeley",16
+"Quinn, Thomas R. - U Washington",16
+"RAI, NAVNEET  - UC Davis",16
+"Radhakrishnan, Ravi - U Pennsylvania",16
+"Radko, Timour - Naval Postgrad School",16
+"Rai, Neeraj - Mississippi State U",16
+"Ramprasad, Ramamurthy - U Connecticut",16
+"Rani, Sarma Laxminarasimha - U Alabama, Huntsville",16
+"Rao, Niny - Philadelphia U",16
+"Rappe, Anthony K - Colorado State U",16
+"Rasulev, Bakhtiyor - Jackson State U",16
+"Ribeiro, Adolfo - UCLA",16
+"Richard, Ryan Matthew - Georgia Tech",16
+"Riggleman, Robert A - U Pennsylvania",16
+"Riley, Pete - Predictive Science",16
+"Robia, Seth Louis - Loyola U Chicago",16
+"Rogers, Nathan Y - UC Santa Barbara",16
+"Romano, Giuseppe  - Hobart and William Smith Colleges",16
+"Romps, David - UC Berkeley",16
+"Rondinelli, James M - Northwestern U",16
+"Ropelewski, Alexander John - CMU",16
+"Roskies, Ralph - PSC",16
+"Rossky, Peter Jacob - Rice U",16
+"Roux, Benoit - U Chicago",16
+"Roy, Anindya - Johns Hopkins U",16
+"Ruether, Andrew - Swarthmore College",16
+"Ruiz Juri, Natalia  - UT Austin",16
+"Rulis, Paul Michael - U Missouri, Kansas City",16
+"Saat, Mohd Rapik - UIUC",16
+"Saha, Kaushik  - ANL",16
+"Sakidja, Ridwan - Missouri State U",16
+"Saltz, Joel H - SUNY Stony Brook",16
+"Sandin, Stuart A - UC San Diego",16
+"Santini, Francesco - UC Davis",16
+"Saravanan, Ramalingam - Texas A&M",16
+"Sarkar, Sutanu - UC San Diego",16
+"Saven, Jeffery G - U Pennsylvania",16
+"Schanzenbach, David - U Hawaii, Manoa",16
+"Schelter, Eric J - U Pennsylvania",16
+"Schmidt, David Paul - U Mass, Amherst",16
+"Schneider, Edwin K - George Mason U",16
+"Schulten, Klaus J. - UIUC",16
+"Seetharam, Arun S - Iowa State U",16
+"Severin, Andrew J - Iowa State U",16
+"Shao, Chen  - Northwestern U",16
+"Shapiro, Paul R - UT Austin",16
+"Sharifzadeh, Sahar  - Boston U",16
+"Sharma, Anupam - Iowa State U",16
+"Shea, Joan-Emma - UC Santa Barbara",16
+"Shearer, Peter  - UC San Diego",16
+"Shende, Sameer Suresh - U Oregon",16
+"Shipman, Steven - New College FL",16
+"Shull, John Michael - CU Boulder",16
+"Silberstein, Meredith Natania - Cornell U",16
+"Simmons, David Samuel - U Akron",16
+"Singh, Satbir - CMU",16
+"Skjellum, Anthony  - Auburn U",16
+"Smith, Aaron Robin - UT Austin",16
+"Smith, Cameron Walter - RPI",16
+"Smith, Lydia - UC Berkeley",16
+"Snir, Marc - UIUC",16
+"Soe, Min - Rogers State U",16
+"Soler-Crespo, Rafael Antonio - Northwestern U",16
+"Song, Carol Xiaohui - Purdue U",16
+"Sosonkina, Masha - Old Dominion U",16
+"Space, Brian - U South Florida",16
+"Spataru, Tudor - CUNY",16
+"Srinivasan, Ashok - Florida State U",16
+"Srolovitz, David J - U Pennsylvania",16
+"Stadler, Georg - NYU",16
+"Steele, Ryan Patrick - U Utah",16
+"Stegman, Dave - UC San Diego",16
+"Sterling, Thomas - Indiana U",16
+"Stevens, Jonathan E - U Detroit Mercy",16
+"Stitzel, Joel - Wake Forest U",16
+"Stone, Christopher P. - Individual/Unaffiliated",16
+"Straus, David - COLA",16
+"Sukenik, Shahar  - UIUC",16
+"Sumner, Isaiah Charles - James Madison U",16
+"Sun, Ying - Drexel U",16
+"Sundar, Hari  - U Utah",16
+"Sur, Sharanya - Arizona State U",16
+"Sutliff, Daniel Linden - NASA Glenn",16
+"Sweeney, Mark C - CU Boulder",16
+"Taha, Tarek - U Dayton",16
+"Tajkhorshid, Emad - UIUC",16
+"Tan, Qiaohua - U Oklahoma",16
+"Tandon, Nandan - Michigan State U",16
+"Tang, Pei - U Pittsburgh Sch of Med",16
+"Tang, Wenjie - U Virginia",16
+"Tang, Yongan - NC Central U",16
+"Tantillo, Dean J. - UC Davis",16
+"Tarrant, Ann Marie - WHOI",16
+"Taylor, James - Johns Hopkins U",16
+"Tchekhovskoy, Alexander - UC Berkeley",16
+"Teukolsky, Saul A. - Cornell U",16
+"Thota, Abhinav S - Indiana U",16
+"Tichy, Wolfgang - Florida Atlantic U",16
+"Tomko, Karen - Ohio State U",16
+"Torkian, Ben - U South Carolina",16
+"Towe, Elias - CMU",16
+"Townshend, Brent  - Stanford U",16
+"Tran, Huan Doan - U Connecticut",16
+"Tsang, Leung - U Michigan",16
+"Van de Walle, Chris G. - UC Santa Barbara",16
+"Vanapalli, Siva A - Texas Tech U",16
+"Vandewalle, Axel - Brown U",16
+"Vaughn, Matthew W - TACC",16
+"Vetticatt, Mathew J - SUNY Binghamton",16
+"Voelz, Vincent Alvin - Temple U",16
+"Voth, Gregory A - U Chicago",16
+"Voyles, Paul M - U Wisconsin-Madison",16
+"Walls, Kenneth - U Alabama, Birmingham",16
+"Walsh, Kevin John - Southwest Res Inst",16
+"Wang, Bei - Princeton U",16
+"Wang, Bin  - U Oklahoma",16
+"Wang, Guofeng - U Pittsburgh",16
+"Wang, Jin - SUNY Stony Brook",16
+"Wang, Jinbo  - SIO",16
+"Wang, Junmei - UT Southwestern Med Ctr",16
+"Wang, Shuai - UC Berkeley",16
+"Wang, Xiao-Qian Larry - Clark Atlanta U",16
+"Wang, Xuguang - U Oklahoma",16
+"Wang, Yigui - Southern Conn State U",16
+"Wang, Yu U - Michigan Tech",16
+"Wang, Zhechen - CU Boulder",16
+"Warshel, Arieh - USC",16
+"Weisz, Dan R - U Washington",16
+"Wereszczynski, Jeff - IIT",16
+"Whited, Toni M - U Rochester",16
+"Wise, John H - Georgia Tech",16
+"Wong, Bryan M - UC Riverside",16
+"Wu, Chengping - U Virginia",16
+"Wu, Yinghao  - Einstein College of Med",16
+"Wuerthwein, Frank - UC San Diego",16
+"Wyble, Brad Paul - Penn State U",16
+"Xia, Meng - U Maryland, Eastern Shore",16
+"Xu, Dong - U Missouri, Columbia",16
+"Xuan, Yuan  - Penn State U",16
+"Xue, Ming - U Oklahoma",16
+"Xue, Yongkang - UCLA",16
+"Yang, Li - Washington U",16
+"Yang, Melinda Anna - UC Berkeley",16
+"Ye, Mao - UIUC",16
+"Yeates, Todd  - UCLA",16
+"Yethiraj, Arun - U Wisconsin-Madison",16
+"Yeung, Pui-kuen - Georgia Tech",16
+"Yilmaz, Ali - UT Austin",16
+"Yin, Wotao  - UCLA",16
+"Younis, Bassam A - UC Davis",16
+"Youssef, Mostafa - MIT",16
+"Yu, Weiting  - UC Berkeley",16
+"Zayak, Alexey - Bowling Green State U",16
+"Zerze, Hasan - Lehigh U",16
+"Zhan, Min - UIUC",16
+"Zhang, Fuqing - Penn State U",16
+"Zhang, Joseph Yinglong - Va Inst of Marine Sci",16
+"Zhang, Peng - SUNY Stony Brook",16
+"Zhang, Shiwei  - College of Wm & Mary",16
+"Zhang, Xiuwen - CU Boulder",16
+"Zhang, Xueyi - UC Berkeley",16
+"Zhang, Yang - NC State U",16
+"Zhao, Shan - U Alabama",16
+"Zhao, Xinyu - U Connecticut",16
+"Zhong, Jinshun  - U Vermont",16
+"Zhong, Xiaolin - UCLA",16
+"Zhou, Guangwen - SUNY Binghamton",16
+"Zhu, Xiao - Purdue U",16
+"Zhu, Zhaohuan - Princeton U",16
+"Zia, Roseanna Nellie - Cornell U",16
+"Zou, Jian - IUPUI",16
+"ferreira, celso moller - George Mason U",16
+"kim, duck young - CIW",16
+"shoele, kourosh - Johns Hopkins U",16
+"Hempel, Chris - UT Austin",12
+"Martini, Ashlie - UC Merced",10
+"Hazlewood, Victor - NICS",8
+"Morton, Thomas Hellman - UC Riverside",8
+"Wang, Shaowen - UIUC",8
+"Timerghazin, Qadir - Marquette U",4
+"Krasa, Stefan - UIUC",2
+"Lovitt, Charity - U Washington",2
+"McClean, Julie L - SIO",2
+"Miller, Mark Alan - UC San Diego",2
+"Wilkins-Diehr, Nancy - UC San Diego",2
+"Asta, Mark - UC Berkeley",1
+"Chan, Yvonne Ling-Hsiang - U Hawaii, Manoa",1
+"Chen, Alan Austin - SUNY Albany",1
+"Chen, Hanghui - Columbia U",1
+"DAloisio, Anson - U Washington",1
+"Del Maestro, Adrian - U Vermont",1
+"Demmel, James Weldon - UC Berkeley",1
+"Fraser, Hunter B - Stanford U",1
+"Gull, Emanuel C - U Michigan",1
+"Kalidindi, Surya R - Georgia Tech",1
+"Krieger, Donald Nathan - U Pittsburgh",1
+"Lavie, Alon - CMU",1
+"Lyon, Jonathan Thomas - Clayton State U",1
+"McNally, Stephen - U Tennessee",1
+"Pamidighantam, Sudhakar V. - UIUC",1
+"Rhee, David - Einstein College of Med",1
+"Siders, Paul D. - U Minn, Duluth",1
+"Snyder, Gregory - STScI",1
+"Stubbs, John Michael - U New England",1
+"Xie, Paul Z. R. - Einstein College of Med",1
+---------
