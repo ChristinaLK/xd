@@ -4,3 +4,5 @@ xd.Rproj
 .Rhistory
 .DS_Store
 XD_numbers.Rproj
+data/.RData
+data/plotting.Rout

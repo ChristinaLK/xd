@@ -18,7 +18,7 @@ df["PI"] = df["PI"].str.split('-').str[0]
 
 ##save to file
 tmp_list = file_list[0].split('_')
-save_file = "madison"
+save_file = "reports/madison"
 for item in tmp_list[-5:]:
 	save_file = save_file+"_"+item
 df.to_csv(save_file, index=False)
