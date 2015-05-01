@@ -4,7 +4,7 @@ library(dplyr)
 library(reshape2)
 
 #file name w/o csv extension
-aggregate_file <- "reports/madison_PI_2015-04-01_to_2015-04-30_aggregate"
+aggregate_file <- "madison_PI_2015-01-01_to_2015-05-01_aggregate"
 
 #load prepared csv
 df <- read.csv(paste0(aggregate_file,".csv"))
