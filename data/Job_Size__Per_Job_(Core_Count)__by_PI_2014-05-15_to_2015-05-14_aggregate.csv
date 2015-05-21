@@ -1,0 +1,1727 @@
+title
+"Job Size: Per Job (Core Count): by PI"
+parameters
+
+start,end
+2014-05-15,2015-05-14
+---------
+PI,"Job Size: Per Job (Core Count)","Std Err of Job Size: Per Job (Core Count)"
+"Harman, Todd - U Utah",14967,520.0411224765468
+"Moschetti, Morgan Paul - USGS",8000,0
+"Cosden, Ian A - Princeton U",7304,1414.8815745412026
+"Chandran, Benjamin - U New Hampshire",6320,690.4756554464162
+"Williams, Samuel W - LBNL",6221,1306.1842811929978
+"Kubis, Tillmann - Purdue U",4705,1007.5903176820157
+"Hansen, Charles D. - U Utah",4226,136.02008077140724
+"Kunz, Matthew W - Princeton U",4096,0
+"Reed, Patrick M - Cornell U",3941,600.1393912433654
+"Ricker, Paul M. - UIUC",3878,138.49369593177644
+"Wang, Bei - Princeton U",3862,334.7174215990831
+"Bellovary, Jillian M - Vanderbilt U",3791,175.03971069069905
+"Oldham, Edward - U Mary Washington",3416,620.7522318391883
+"Elcock, Adrian H - U Iowa",3414,557.3949992473412
+"Soltesz, Ivan - UC Irvine",3326,58.437468072632264
+"Peng, Zhangli - MIT",3182,114.36859156529832
+"Ballance, Connor - Auburn U",3023,466.6078740156748
+"Liu, Keh-Fei - U Kentucky",2680,75.12578192449826
+"Madison, Don - Missouri S&T",2644,150.0307639577672
+"Blaisdell, Gregory A. - Purdue U",2359,151.12080493836024
+"Chen, Ru - SIO",2318,82.06459318837118
+"Zingale, Michael - SUNY Stony Brook",2186,131.19525698756544
+"Reynolds, Christopher Stephen - U Maryland",2174,163.96932717883624
+"Lan, Zhiling - IIT",2101,317.5351277389366
+"Kareem, Ahsan - U Notre Dame",2063,136.43502777768762
+"Shi, Yunfeng - RPI",2048,0
+"Marinacci, Federico - MIT",1985,262.57585764808044
+"Srinivasan, Sundar - U Washington",1899,102.67023353010936
+"Shay, Michael Anthony - U Delaware",1823,549.6502130191527
+"Stadler, Georg - NYU",1718,90.45932869776291
+"Jiang, Yanfei - Smithsonian Astrophys Obs",1660,190.46135315289624
+"Fierro, Alexandre O - U Oklahoma",1529,166.88884254838146
+"Simon, Jake - Southwest Res Inst",1520,128.74836591709877
+"Pogorelov, Nikolai - U Alabama, Huntsville",1514,135.5153402236869
+"Loth, Francis - U Akron",1414,132.17146162003033
+"Balsara, Dinshaw S - U Notre Dame",1397,78.87555313829166
+"Sironi, Lorenzo - Harvard U",1380,230.1642128152852
+"Johnson, Calvin William - San Diego State U",1320,198.72479984675468
+"Griesel, Alexa - SIO",1315,164.94285117290312
+"Loverde, Sharon - CUNY",1286,63.58339275248009
+"Gasper, Paul M - SUNY Albany",1280,16
+"Mueller, Frank - NC State U",1260,118.52236368585709
+"Cecka, Cris - Harvard U",1203,142.59951589938896
+"Panchenko, Anna - NIH",1194,196.6301052612895
+"Childers, Greg - CSU-Fullerton",1192,373.8736476048725
+"Collins, Lance - Cornell U",1186,57.04242279621335
+"Jin, Guangxu  - Wake Forest Sch of Med",1117,139.86120242372021
+"Toomre, Juri - CU Boulder",1093,163.66720288681972
+"Wang, Daniel Q. - U Mass, Amherst",1078,47.40118736869988
+"Howes, Gregory G - U Iowa",1074,83.46952329867231
+"Zhuang, Houlong - ORNL",1029,241.34868459462456
+"Huo, Pengfei - Caltech",1024,0
+"Huwe, Peter - U Pennsylvania",1024,0
+"Lewis, Nathan Enoch - UC San Diego",1024,0
+"Holden, Zachary - U Montana",1005,6.323743238905414
+"Beg, Farhat - UC San Diego",1004,111.80211197562501
+"Fang, Fang - NCAR",1002,192.38721042078498
+"Suter, Robert M. - CMU",992,16.160187707604845
+"Detmold, William - MIT",984,2.0887781402282943
+"Ranganathan, Srivathsan V - SUNY Albany",981,42.67142900086031
+"Hill, Chris - MIT",972,247.20428633758246
+"Goodman, Jeremy - Princeton U",959,147.95686660307456
+"Raeder, Joachim - U New Hampshire",951,83.87197023422844
+"Gomez, Facundo A - Michigan State U",945,23.01189100830558
+"Pande, Santosh - Georgia Tech",940,68.08622732159886
+"Trac, Hy - CMU",939,49.26722297296497
+"Koziol, Quincey A - HDF Group",937,119.25494208181689
+"Tarboton, David Gavin - Utah State U",936,48.582307925630005
+"Facelli, Julio C - U Utah",915,109.78072855729934
+"Donzis, Diego A. - Texas A&M",910,74.76465728559181
+"Narayan, Ramesh - Harvard U",900,33.095359368559464
+"Saravanan, Ramalingam - Texas A&M",887,24.492812622296743
+"Toth, David - Centre College",880,294.06937956883576
+"Subramaniam, Shankar - Iowa State U",874,124.4729471703683
+"Orf, Leigh G. - Central Michigan U",857,237.91314730524678
+"McKinney, Jonathan C. - U Maryland",851,56.11917165641354
+"Liang, Bo - Harvard Med Sch",850,183.1246767379336
+"Pekurovsky, Dmitry - UC San Diego",850,66.88094602190951
+"Agrawal, Rajendra K - SUNY Albany",846,107.4584553022644
+"Blondin, John M. - NC State U",837,40.642787805735075
+"Bylander, Daniel Martin - Texas State U",837,176.48396758597977
+"Yan, Jingwen - IUPUI",836,206.81013514815945
+"Yao, Xiaohui - IUPUI",800,0
+"Yeung, Pui-kuen - Georgia Tech",797,32.12533441646456
+"Lu, Hui - U Illinois, Chicago",796,119.50804920428241
+"Zhang, Shiwei  - College of Wm & Mary",791,65.93525852282077
+"Berzins, Martin - U Utah",790,30.5698231159861
+"Mac Low, Mordecai-Mark - AMNH",789,23.759578954934998
+"Niu, Fenglin - Rice U",787,36.07787109308542
+"Ngoko Djiokap, Jean Marcel - U Nebraska, Lincoln",778,20.173552026260076
+"Cui, Yifeng - UC San Diego",772,22.526161727235877
+"Motamarri, Phani - U Michigan",770,50.674706964592254
+"Marchand, Roger - U Washington",768,0
+"Spitkovsky, Anatoly - Princeton U",761,54.86212613907542
+"Balick, Bruce -- - U Washington",747,97.56745055340112
+"Condron, Alan - U Mass, Amherst",743,40.747123977360665
+"Akis, Richard - Arizona State U",736,0
+"Appelhans, David - CU Boulder",734,29.51297371986558
+"Chen, Min - Rice U",734,42.63577678483029
+"Mura, Cameron - U Virginia",734,83.80902906489031
+"Mendes, Celso Luiz - UIUC",723,70.66630833631586
+"Ihme, Matthias - Stanford U",721,54.091149026227825
+"Mazloff, Matthew R. - SIO",716,37.269305270336474
+"Phares, Alain Joseph - Villanova U",710,61.1532538707825
+"Chang, Ping - Texas A&M",708,35.44346027532136
+"Greenbaum, Anne - U Washington",707,67.77181923364516
+"Frebel, Anna - MIT",700,34.494364629455816
+"Cerutti, Benoit - Princeton U",694,98.89095332372075
+"Mahesh, Krishnan - U Minn",689,21.82561928664321
+"Sotomayor, Marcos - Ohio State U",689,18.865179056393323
+"Sandholm, Tuomas - CMU",683,73.70277311918043
+"Lyon, John G. - Dartmouth College",673,51.831636531545385
+"Loeffler, Frank - Louisiana State U",670,83.68466781993763
+"Velikokhatnyi, Oleg I - U Pittsburgh",667,67.67463354507682
+"Mofrad, Mohammad R. K. - UC Berkeley",662,30.531795069849615
+"Shapiro, Paul R - UT Austin",655,43.13112477439991
+"Dawes, Richard - Missouri S&T",654,90.93950829602552
+"De Zorzi, Rita - Harvard Med Sch",652,94.14281715861802
+"Skjellum, Anthony  - Auburn U",643,72.59602460788271
+"Hart, David Lawrence - NCAR",640,386.53100619484593
+"Sundar, Hari  - U Utah",640,43.97771598277669
+"Djohari, Hadrian - CWRU",639,91.30711162818385
+"Anderson, Stuart Bruce - Caltech",635,33.27047501401492
+"Keaveny, Tony M. - UC Berkeley",630,40.48412135706315
+"Wu, Chengping - U Virginia",627,24.97921580288199
+"Tomko, Karen - Ohio State U",610,51.920753519453086
+"Jaberi, Farhad A - Michigan State U",608,24.231225660772218
+"Boldyrev, Stanislav - U Wisconsin-Madison",607,50.36033792986983
+"Moldwin, Mark B - U Michigan",606,170.4235105939745
+"Patricola, Christina M - Texas A&M",606,16.57569075788726
+"Peet, Yulia  - Arizona State U",606,28.034576471414148
+"Helly, John J - UC San Diego",605,52.266499454686176
+"Klein, Michael - Temple U",605,2.6509495712493614
+"Sinha, Manodeep - Vanderbilt U",600,41.3347997844608
+"Chow, Edmond - Georgia Tech",593,109.3583040384144
+"Einstein, Theodore L - U Maryland",592,6.789430883878709
+"He, Ping - NC State U",591,68.43202189043933
+"Roy, Kuldeep Kumar - U Mississippi",580,68.7184270936277
+"Van Roekel, Luke - CU Boulder",576,50.43356806234177
+"Palsson, Bernhard - UC San Diego",574,90.36873326018507
+"Falkingham, Peter Lewis - Brown U",569,83.9148910235427
+"Etienne, Zachariah B - West Virginia U",567,92.29270136657766
+"Olson, Lorraine G. - Rose-Hulman Tech",567,39.11279576522602
+"Subramanian, Aneesh - SIO",565,121.15745323708427
+"Tokman, Mayya - UC Merced",560,232.2756982553276
+"Warren, Allen A - U Montana",551,2.742090504737607
+"Wei, Zhigang - U Notre Dame",551,56.00096968148409
+"Hasenfratz, Anna - CU Boulder",549,4.132955264050017
+"Heinz, Sebastian - U Wisconsin-Madison",540,91.91439495530607
+"Meakin, Casey Adam - LANL",540,83.73698969877279
+"Han, Yong - Iowa State U",532,18.87267404475584
+"Kim, Hyojin - Harvard Med Sch",529,16.247556190015164
+"Schulten, Klaus J. - UIUC",529,33.41320476165416
+"Ramm, Alexander G. - Kansas State U",528,37.85633734572304
+"Tsang, Leung - U Michigan",517,24.986346094160663
+"McCarthy, John M - UC Irvine",516,142.56350164049698
+"Fisher, Robert T - U Mass, Dartmouth",513,40.66194820323105
+"Tan, Dongyan - Harvard Med Sch",512,0
+"Zou, Jian  - WPI",512,0
+"Bullock, James S - UC Irvine",503,41.002637183478825
+"Gao, Huajian - Brown U",499,77.36910323814004
+"Sinha, Neelima - UC Davis",492,165.4750736515926
+"Chong, Lillian T - U Pittsburgh",491,55.36798379464354
+"Kellogg, Louise H - UC Davis",491,23.036842057181318
+"Xia, Qian - U Wisconsin-Madison",490,24.015021856326236
+"Asadi, Ebrahim - Missouri S&T",488,24.17204997512624
+"Guan, Zhen - UC Irvine",488,54.92862677421804
+"Li, Jessie - Stanford U",486,101.27870665846505
+"Feig, Michael - Michigan State U",481,11.983404623515998
+"Bai, Xuening - Smithsonian Astrophys Obs",477,56.12104315571291
+"Frank, Adam - U Rochester",476,23.19453264387388
+"Ott, Christian David - Caltech",466,21.62943795939328
+"Parry, Owen - U Maryland",464,47.579147051319815
+"Abraham, John - Purdue U",462,33.95749143530306
+"Amaro, Rommie E - UC San Diego",461,28.58971135646597
+"Pritchett, Philip L. - UCLA",461,29.54812693687664
+"Zhu, Cheng - Georgia Tech",459,19.06975994579954
+"Ruan, Youyi - Brown U",457,21.159970503851827
+"Eigenmann, Rudolf - Purdue U",456,92.54892049887528
+"Michalakes, John George - NOAA",456,124.02188883874271
+"Aller, Stephen G - U Alabama, Birmingham",451,37.79806320201321
+"Wang, Shaowen - UIUC",449,25.07059905304451
+"Perez, Jean Carlos - U New Hampshire",448,33.86020804490257
+"Shende, Sameer Suresh - U Oregon",444,66.07769637815561
+"S V N, Vishwanathan - UC Santa Cruz",443,37.09921832060617
+"Soe, Min - Rogers State U",442,45.52557264501744
+"Blanquart, Guillaume - Caltech",441,33.00389873077724
+"Helenbrook, Brian - Clarkson U",440,79.79350146579839
+"Singh, Parampreet  - Louisiana State U",439,46.94123983613203
+"Francoeur, Mathieu - U Utah",438,62.57627415794519
+"Bishop, Thomas C - Louisiana Tech",421,44.96021038622583
+"Holley-Bockelmann, Kelly - Vanderbilt U",421,88.09880612528144
+"McGovern, Amy - U Oklahoma",417,21.701234449014994
+"Bradford, Kent Jay - UC Davis",416,83.13843876330611
+"Guo, X Edward - Columbia U",414,9.91682561935151
+"Keyes, David Eliot - KAUST",411,81.87011359464454
+"El-Alaoui, Mostafa - UCLA",410,1.8123034591961928
+"Goldberg, Sharon - Boston U",408,26.804091009559915
+"Mashayek, Farzad - U Illinois, Chicago",408,10.79866410954505
+"Chen, Alan Austin - SUNY Albany",397,38.53860975655859
+"Romps, David - UC Berkeley",394,28.00151374194248
+"Wise, John H - Georgia Tech",392,22.816301796319458
+"Sterling, Thomas - Indiana U",388,24.617562884808034
+"Huarte-Espinosa, Martin - U Rochester",386,32.943864260620416
+"Billington, Sarah L - Stanford U",385,42.387580349875485
+"Bishop, Anthony C - RPI",384,0
+"Filip, Grzegorz Piotr - U Michigan",384,43.93165989063087
+"Malaspina, David Cesar - Northwestern U",380,48.64736545909343
+"Cohen, Marvin L. - UC Berkeley",379,8.690393348150172
+"Fields, Aaron J - UC San Francisco",378,157.85516771050482
+"Carruthers, Lucy Marston - U Arizona",372,149.7107611362657
+"Hagen, Scott Charles - U Central Florida",371,24.7176224244029
+"Qiao, Bin - UC San Diego",368,24.05095905017717
+"Riley, Pete - Predictive Science",367,22.08631156116701
+"Ferrante, Antonino - U Washington",366,32.19382359071973
+"Burton, Zachary F - Michigan State U",363,7.352743990219206
+"Mitas, Lubos - NC State U",363,17.96321928250658
+"Guvench, Olgun - U New England",361,25.760166250585122
+"French, Kinsley Claire - RPI",358,25.329548078193245
+"Asle Zaeem, Mohsen - Missouri S&T",356,9.570113649725426
+"Scharfenberg, Buddy - Missouri S&T",356,41.77581730555821
+"Cessi, Paola - SIO",355,25.654624797779427
+"Giacomazzo, Bruno - U Trento",353,16.690730103993502
+"Gibou, Frederic - UC Santa Barbara",351,24.858331910236494
+"Carrington, Laura - UC San Diego",350,20.77205070301211
+"Cormier, Guy - U Georgia",350,47.376192801084905
+"Lyra, Wladimir - Caltech",349,18.008966689782792
+"Uzun, Ali - Florida State U",346,21.373523367193624
+"Jakowski, Jacek - U Tennessee",345,15.608666844996904
+"LeBard, David - Yeshiva U",338,3.5220545022438943
+"Hawley, John F. - U Virginia",337,23.413099049120593
+"Hong, Han  - Stanford U",337,61.8454461681952
+"Hand, Brian K - U Montana",336,217.37130839714268
+"Pellman, David Steven - Dana-Farber Cancer Inst",336,24.793994988706434
+"Zhou, Z. Hong - UCLA",336,18.659014392455898
+"Cicotti, Pietro - SDSC",334,21.876118049734828
+"Wilcox, Jennifer - Stanford U",332,27.357316639817526
+"Abernathey, Ryan - Columbia U",328,33.296923098147715
+"Volkov, Alexey N. - U Alabama",325,30.82718498557735
+"Zhu, Ping - U Wisconsin-Madison",324,44.17550562003289
+"Henderson, Shane G - Cornell U",323,27.64715589006508
+"Zalucha, Angela - SETI Inst",318,7.053465441951643
+"Fuentes-Cabrera, Miguel Angel - U Tennessee",317,19.197242038082834
+"Marinshaw, Ruth - Stanford U",317,26.55015080106795
+"Gao, Wei  - Northwestern U",316,65.65325477224988
+"Johnson, Harley T. - UIUC",316,28.797757114432113
+"Norman, Michael L. - UC San Diego",316,19.822746721198495
+"Eshraghi Kakhki, Mohsen - CSU-Los Angeles",307,85.51958137116233
+"Farhi, Moran  - UC Davis",304,30.42284568829768
+"Gumbart, James - Georgia Tech",304,9.408821643562149
+"Kiser, Eric Daniel - Rice U",304,19.016337548276745
+"Kogut, John B. - U Maryland",303,10.580252066075353
+"Lower, Steven K - Ohio State U",303,91.67576121044813
+"Apte, Sourabh V - Oregon State U",302,18.6970029169806
+"Indiviglio, Frank M - NOAA",302,25.90019906023484
+"Ceperley, David M - UIUC",299,14.182627239324487
+"Kushnir, Doron - Institute for Advanced Study",298,10.85274321388606
+"Reutt-Robey, Janice Ellen - U Maryland",298,4.067495350341046
+"Smith, Aaron Robin - UT Austin",298,42.52850321858398
+"Leschziner, Andres E - Harvard U",296,9.451507329992081
+"Zheng, Lianyuan - U South Florida",296,14.467495789317073
+"Zou, Jian - IUPUI",296,29.680972300816606
+"Humphrey, Jay Dowell - Yale U",294,51.41938809334458
+"Pirkelbauer, Peter  - U Alabama, Birmingham",293,18.19090174154954
+"Shim, Joong-Youn - NC Central U",288,0
+"Bucher, Denis - UC San Diego",286,112.18036066166576
+"Johnson, Steven G - MIT",285,35.89062554106462
+"Luthey-Schulten, Zaida - UIUC",285,20.728662132950046
+"Bykhovskaia, Maria - Central U Caribbean",284,18.623236188570132
+"Roskies, Ralph - PSC",284,39.642713638581334
+"Hopkins, Philip F - Caltech",283,17.924806624214447
+"Towns, John W. - UIUC",280,45.90728997525953
+"Mendez Polanco, Miguel Angel - MIT",279,5.157365370383045
+"Diaz, Javier - Rutgers U",278,40.699612742430304
+"Jin, Meng - UCAR",278,21.005211988147877
+"Aksimentiev, Aleksei - UIUC",277,13.305202124539923
+"Jagota, Anand - Lehigh U",275,18.75266369973936
+"Cuma, Martin - U Utah",273,17.176537880111958
+"Morris, Mark - UCLA",272,35.327043465311384
+"Nikolic, Branislav - U Delaware",272,12.817428259161565
+"Robia, Seth Louis - Loyola U Chicago",272,86.57759525419957
+"Tchekhovskoy, Alexander - UC Berkeley",271,28.648401252027803
+"Lecoanet, Daniel - UC Berkeley",270,34.08476099592524
+"Pisciuneri, Patrick - U Pittsburgh",268,42.366415051175636
+"Pueschel, Moritz J - U Wisconsin-Madison",268,15.86449555862497
+"Boylan-Kolchin, Michael  - U Maryland",267,16.21219661246601
+"Najafi-Yazdi, Alireza - McGill U",267,49.50049756583448
+"Panoff, Robert M - Shodor",267,38.605034882218426
+"Zarif-Khalili-Yazdani, Alireza - Brown U",266,5.386402147462742
+"Bhattacharya, Apratim - Andritz Automation",265,13.068851941638925
+"Lyman, Edward - U Delaware",264,18.479810226223353
+"O'Leary, Ryan - UC Berkeley",264,10.151290314395808
+"Yilmaz, Ali - UT Austin",264,12.114375739371518
+"Fan, Shanhui - Stanford U",262,4.4907237103623086
+"Kaznessis, Yiannis N. - U Minn",260,5.9339972568485235
+"Khelashvili, George - Weill Cornell Med College",260,0.44813866446999034
+"Lobo, Daniel - Tufts U",260,2.7846605238535087
+"Pan, Tongyan  - IIT",260,31.165793136764098
+"da Silveira, Pedro Rodrigo Castro - U Minn",260,14.933928437592597
+"Adrian, Ronald John - Arizona State U",259,48.992849259706624
+"Berlind, Andreas - Vanderbilt U",259,15.101108302698815
+"Scheraga, Harold A. - Cornell U",258,22.421930898862747
+"Dempski, Robert E - WPI",256,0
+"Johner, Niklaus B - Weill Cornell Med College",256,0
+"Kane, Michael John - Yale U",256,0
+"Lambert, Lixia He - U Tennessee",256,73.32121111929344
+"Lazzati, Davide  - Oregon State U",256,0
+"Mondal, Sayan - Weill Cornell Med College",256,0
+"Kammel, Peter - U Washington",255,12.137201097697641
+"Moreno, Juana - Louisiana State U",253,5.227125246728516
+"Bretherton, Christopher Stephen - U Washington",252,30.161846342995045
+"Brooks, Charles L - U Michigan",252,5.6622653080543905
+"Perez-Aguilar, Jose Manuel - Weill Cornell Med College",252,1.8623388480013228
+"Hempel, Chris - UT Austin",251,27.932470430512158
+"Wiens, Douglas A - Washington U",249,32.520189648771144
+"Kaiser, Hartmut - Louisiana State U",248,16.468150243128783
+"Pillepich, Annalisa  - Harvard U",248,13.389067747059903
+"Zhang, Chengzhu - SIO",248,22.84860886025672
+"Johnsen, Eric - U Michigan",247,13.528115957898212
+"Morse, David - U Minn",247,9.963970293884135
+"Yoon, Chamna - CUNY",245,7.865493245817466
+"Douma, Michael - IDEA",240,31.90114587850532
+"Katzenellenbogen, John A - UIUC",240,0
+"Pretorius, Frans - Princeton U",240,4.293914194186171
+"Marcus, Philip Stephen - UC Berkeley",237,3.203201717638967
+"Wang, Binghe - Georgia State U",237,18.21471932256985
+"ferreira, celso moller - George Mason U",237,7.641277067014166
+"Weinstein, Harel - Weill Cornell Med College",236,2.4682463718561234
+"Meyer, Randall - U Illinois, Chicago",235,4.627864612500529
+"Sur, Sharanya - Arizona State U",234,7.392564372373653
+"Dawson, Clinton N - UT Austin",233,9.134051460237227
+"Khaldi, Dounia - U Houston",232,30.96830686266433
+"Shubert, Richard H. - Inst for Fundamental Sci",232,25.78743383898444
+"Lazarian, Alex - U Wisconsin-Madison",230,94.61440493393444
+"Smith, Cameron Walter - RPI",230,16.33388901381969
+"zheng, xiaoning  - MIT",229,6.093094152624763
+"Chan, Maria - ANL",228,11.567231694179913
+"Liebling, Steven - Long Island U",228,5.29193960467823
+"Dick, Robert Alfred - Cornell U",226,15.421543372827498
+"Tobias, Douglas J. - UC Irvine",225,4.4596326898110465
+"Offner, Stella S - U Mass, Amherst",224,6.979018306476897
+"Klie, Robert F - U Illinois, Chicago",222,2.061778967503224
+"Zhu, Zhaohuan - Princeton U",222,20.638346024567593
+"Ong, Benjamin - Michigan Tech",221,64.820153839296
+"Becker, Andrew - U Washington",220,37.17962006473324
+"Kim, Ji-hoon - Caltech",219,5.979926404260135
+"Moehlis, Jeff - UC Santa Barbara",219,22.562082677158088
+"Landau, David P - U Georgia",218,20.284171126731614
+"Takhar, Pawan Singh - UIUC",218,56.64165722622647
+"Dickens, Phillip Mathew - U Maine",217,26.47813621594739
+"Snir, Marc - UIUC",217,14.791149458245698
+"Cann, Isaac K O - UIUC",215,8.63066892265979
+"Chiu, Wah - Baylor College of Med",215,22.807148030648268
+"Hall, David Matthew - CU Boulder",215,6.3351724673530425
+"Natarajan, Aravind - CMU",214,22.470039088273424
+"Boudker, Olga - Weill Cornell Med College",213,6.681128316738578
+"Mehringer, Susan - Cornell U",213,21.923279564522588
+"Brannigan, Grace - Rutgers U",212,6.781010239980262
+"Kibalchenko, Mikhail - UCLA",212,19.570863049406743
+"Misra, Vasubandhu - Florida State U",212,2.8997640257100614
+"Park, Kyungwha - Virginia Tech",212,7.358028255060426
+"Lin, Kan-Ju - MIT",211,1.6024069875072522
+"Zeng, Yong - U Missouri, Kansas City",211,50.24250875287429
+"Kim, John - UCLA",209,3.9179488929359336
+"Madura, Jeffry D. - Duquesne U",209,5.767257133478005
+"Wang, Yang - CMU",209,2.974376308469845
+"Mastorakos, Ioannis  - Clarkson U",208,72.14799604516632
+"Work, Daniel  - UIUC",208,72.94747734107577
+"Laguna, Pablo - Georgia Tech",207,4.073524235767773
+"Winters, Kraig - UC San Diego",207,19.18153187567611
+"Doubleday, Charles - Columbia U",206,4.939730109796253
+"El-Awady, Jaafar A - Johns Hopkins U",206,9.490779143343515
+"Huang, Kerwyn Casey - Stanford U",206,19.46401397329502
+"Lele, Sanjiva K - Stanford U",206,19.303648982450856
+"Navarro, Rafael - UC San Diego",206,30.36998049737756
+"Levine, Benjamin G - Michigan State U",205,13.657900283868944
+"Liu, Lijun - UIUC",204,5.2498691492777745
+"Samimi, Alireza - U Utah",204,6.65569952424051
+"Diener, Peter - Louisiana State U",203,6.65131253676551
+"Xing, Haipeng  - SUNY Stony Brook",202,44.49026344764493
+"Bodony, Daniel Joseph - UIUC",200,5.940141097576442
+"Cooper, Catherine Marguerite - Washington State U",200,8.22369078923413
+"Greif, Thomas - Harvard U",198,21.31538993533848
+"Al-Saidi, Wissam Abdo - U Pittsburgh",197,2.6089924039915116
+"Im, Hong G - U Michigan",197,15.988032633817083
+"Kutana, Alex - Rice U",197,25.576285312527627
+"Friedline, Christopher James - Virginia Commonwealth U",196,82.80278225121126
+"Portegys, Tom - OpenWorm",196,16.651371362312247
+"Pritchard, Michael - UC Irvine",195,13.470048480182855
+"Ashour-Abdalla, Maha - UCLA",194,16.85930596068926
+"Le, Duy - U Central Florida",194,3.9614107641123497
+"Rempfer, Dietmar - IIT",194,8.001871525878597
+"Richard, Ryan Matthew - Georgia Tech",192,24.007602176015723
+"Seifu, Dereje  - Morgan State U",192,26.127890589687237
+"Shaw, John Edward - NW Missouri State U",192,24.343224778007382
+"Smith, Paul E - Kansas State U",192,0
+"Teich-McGoldrick, Stephanie Leah - Sandia",192,3.4349655946662554
+"Mittal, Rajat - Johns Hopkins U",191,4.4862385381552645
+"Morningstar, Colin - CMU",191,0.9814818684489857
+"Makhatadze, George I - RPI",190,7.575007134324795
+"Muller, Michael - Southwest Res Inst",190,48.060769594901295
+"li, yaping  - U Tulsa",190,2.553138956076786
+"Niemann, Christoph - UCLA",189,13.536401161157675
+"Fragile, Patrick C - College of Charleston",188,4.761644540565967
+"Tajkhorshid, Emad - UIUC",188,2.8605758019887255
+"Saltz, Joel H - SUNY Stony Brook",187,8.968002222040768
+"Khanna, Gaurav - U Mass, Dartmouth",186,17.561669902071273
+"Terrill, Judith Ellen - NIST",186,17.949062148201506
+"Bartschat, Klaus - Drake U",185,4.194603208962437
+"Pongkitiwanichakul, Peera - U Chicago",185,4.205742407478404
+"Kimber, Mark - U Pittsburgh",184,9.80432348774053
+"Sarma, Jayshree - George Mason U",184,21.871385696969273
+"Sperhake, Ulrich - Caltech",184,5.833028916660259
+"Su, Shiquan - NICS",184,7.272282075462593
+"Tenishev, Valeriy - U Michigan",184,13.66436926421217
+"Bahar, Ivet - U Pittsburgh",183,15.272919708318398
+"Marcello, Dominic - Louisiana State U",182,31.9953558985556
+"Raeymaekers, Bart  - U Utah",182,12.901811918907358
+"Del Vento, Davide - NCAR",181,78.51583279823248
+"Chen, Hanning - George Washington U",179,1.9681565362304498
+"Sharma, Anupam - Iowa State U",179,13.447196110036073
+"Xuan, Yuan  - Penn State U",179,42.529401526122925
+"Zhang, Fuqing - Penn State U",179,1.4125570444521618
+"Bromm, Volker - UT Austin",178,6.783069174896275
+"Moser, Robert - UT Austin",178,93.84609943428889
+"Jiang, Shaoyi - U Washington",177,7.74319400149659
+"Key, Jason M - Harvard Med Sch",176,12.118610269773509
+"Li, Lan - Boise State U",176,12.644733028277088
+"Sumner, Isaiah Charles - James Madison U",176,11.431379617183673
+"Tafur, Sergio - U Central Florida",176,53.34846654876112
+"Wilson, Robert E - SUNY Stony Brook",176,13.817416246735032
+"Barone, Veronica  - Central Michigan U",175,7.9707596332846045
+"Vanderpool, Daniel D - U Montana",174,36.96095236868227
+"Srinivasan, Ashok - Florida State U",173,17.64840834870028
+"Yang, Yuan - MIT",173,50.00674807688116
+"Buck, Matthias - CWRU",172,1.8359170666312101
+"Baron, Riccardo - U Utah",171,5.7376916895215135
+"Cuendet, Michel Alain - Weill Cornell Med College",171,16.57464177591781
+"Rai, Neeraj - Mississippi State U",171,21.93332226774533
+"Garcia, Angel E - RPI",170,3.661626669795614
+"Burns, Keaton - MIT",169,6.728745476134317
+"Gelernter, Judith - CMU",169,24.61422871940568
+"Jack, Mark A - Florida A&M U",168,61.56247831235932
+"Smith, Britton D - U Edinburgh",167,16.056677375813763
+"Lieuwen, Timothy Charles - Georgia Tech",165,29.5586183592978
+"McWilliams, James C. - UCLA",165,3.101547431417231
+"Quataert, Eliot - UC Berkeley",165,13.166065620515175
+"Babaee, Hessam - MIT",164,2.892955214337505
+"Klein, Richard I. - UC Berkeley",162,1.8191930952947215
+"Huggett, Mark - Georgetown U",160,0.1216031932922903
+"Miao, Yinglong - HHMI",159,13.545345547916407
+"Duan, Lian - Missouri S&T",158,7.275097755566804
+"White, Stephen H. - UC Irvine",158,7.038598710128442
+"Martins, Joaquim - U Michigan",157,4.015454425665633
+"Viswanath, Divakar - U Michigan",157,30.59882643853788
+"Karanicolas, John - U Kansas",156,4.378601393586997
+"Kashi, Amit - U Minn",155,10.270844787591095
+"Zhang, Joseph Yinglong - Va Inst of Marine Sci",155,5.208465308793145
+"Ferguson, James - NICS",153,19.94633051375778
+"Sweeney, Alison M - U Pennsylvania",153,6.856449378630308
+"Ertekin, Elif - UIUC",152,16.093396031706092
+"Silvia, Devin W - Michigan State U",152,21.163588479964467
+"Trouve, Arnaud Christophe - U Maryland",152,14.43346209759265
+"Wang, Xuguang - U Oklahoma",152,1.8361960221580964
+"Myong, Sua - UIUC",151,24.130684797959667
+"sansoz, frederic - U Vermont",151,6.4097707899776
+"Kosar, Tevfik - SUNY Buffalo",150,27.52894967889855
+"Lousto, Carlos - RIT",150,4.008104319781022
+"Blume, Doerte - Washington State U",149,9.008189053687985
+"Keres, Dusan - UC San Diego",149,16.66313803459087
+"Hill, David Foster - Oregon State U",148,6.5798161259824
+"Oskooi, Ardavan  - U Michigan",147,4.539848259823472
+"Roux, Benoit - U Chicago",147,1.3860822013247174
+"Sant, Gaurav N - UCLA",147,3.320644236862292
+"Arolla, Sunil - Cornell U",146,41.3130900182821
+"Chen, Feng - TACC",146,17.277983515792393
+"Elgamal, Ahmed - UC San Diego",146,22.07176640530706
+"Hall, Jaclyn Marie - U Florida",146,18.386706484877724
+"Velazquez, Leticia  - Rice U",146,28.690056593756463
+"Espinosa, Horacio Dante - Northwestern U",145,40.09688276505555
+"Zgid, Dominika Kamila - U Michigan",145,33.50367514807749
+"Gubbins, David - SIO",144,15.299785861196494
+"Shen, Peter  - U Utah",144,0
+"Cushman, John Chandler - U Nevada, Reno",143,71.7742516548437
+"Rhoads, Douglas Duane - U Arkansas",143,12.255598871751756
+"Voronov, Roman S - NJIT",142,3.1555543817212186
+"Ramamoorthi, Ravi - UC San Diego",140,4.241026245284921
+"Saven, Jeffery G - U Pennsylvania",140,9.3025981988153
+"Li, Zongli - Harvard Med Sch",139,27.12909911139493
+"Richard, Robert L - UCLA",139,14.406628964770034
+"Seaton, Barbara A - Boston U",139,5.762126663185255
+"Mertz, Blake - West Virginia U",138,16.500361942881177
+"Peng, Hua - CSU-Northridge",138,23.766815437449548
+"Jordan, Thomas H. - USC",137,4.583734855190637
+"Valle-Levinson, FArnoldo - U Florida",137,20.091712886625032
+"Dorland, William D - U Maryland",136,12.940074832127442
+"Ramaprabhu, Praveen Kumar - UNC Charlotte",136,28.19212251948087
+"Shea, Joan-Emma - UC Santa Barbara",134,4.265403584601422
+"Um, Jun Shik - UIUC",134,2.650408801340603
+"Doughty, Shawn G. - Tufts U",133,30.868461789298873
+"Jewett, Brian F - UIUC",133,2.972569017899473
+"Beckstein, Oliver - Arizona State U",132,7.023585502823036
+"Biringen, Sedat - CU Boulder",132,3.4274374222553208
+"Spataru, Tudor - CUNY",132,11.265233964019004
+"Basu, Sukanta - NC State U",131,38.953259107486936
+"Bourdin, Blaise - Louisiana State U",131,3.256462703343621
+"Luo, Yun - U Chicago",131,19.097287104375862
+"Majumdar, Amitava - UC San Diego",131,4.051497868451894
+"Oh, Siang Peng - UC Santa Barbara",131,7.943451241417448
+"Puzyrev, Yevgeniy - Vanderbilt U",131,3.5533328363913075
+"Bryan, Greg L. - Columbia U",130,4.4059232168763725
+"Dutt, Meenakshi - Rutgers U",130,4.134721934365458
+"Frost, Adam S - U Utah",129,6.0221451704071765
+"Ascenzi, Maria-Grazia - UCLA",128,0
+"Briggs, James Michael - U Houston",128,0
+"Brummell, Nicholas H - UC Santa Cruz",128,4.876512570839746
+"JIA, YINGDONG - UCLA",128,0
+"Lesage, Anne-Cecile - Texas Tech U",128,12.598619361573817
+"Loesche, Mathias  - CMU",128,0
+"Michael, Scott - Indiana U",128,0
+"Pummill, Jeff - U Arkansas",128,10.914931702581661
+"Qi, Feng - Sanford-Burnham Med Res Inst",128,0
+"Stevanovic, Vladan - Colorado Sch of Mines",128,0
+"Zhigilei, Leonid - U Virginia",128,6.998384487832881
+"Banavali, Nilesh K - Wadsworth Ctr",127,7.052312465504564
+"Holladay, Kenneth L - Southwest Res Inst",127,5.186967297153913
+"Metcalfe, Travis - Space Sci Inst",127,0.22244919776244942
+"Baptista, Antonio  - Oregon Health & Sci U",126,7.481793978263007
+"Grabe, Michael - UC San Francisco",126,2.909558372026646
+"Kolpak, Alexie - MIT",126,1.5708248016930373
+"Larini, Luca - Rutgers U",126,30.87968081927014
+"Van Wynsberghe, Adam Wayne - Hamilton College",126,12.183894678659245
+"Anderson, Steven Edward - Texas A&M",125,5.544811894101859
+"Artrith, Nongnuch - - MIT",124,2.1313813128206918
+"Dennis, John Mauff - NCAR",124,12.678407589318715
+"Hu, Fang Q - Old Dominion U",124,6.828121403678956
+"Malcom, Jacob Wesley - U Connecticut",124,15.649472061455043
+"Onuchic, Jose - Rice U",124,9.861084361721002
+"Chen, Jen-Ping  - Ohio State U",123,21.77324215838569
+"Hummels, Cameron - U Arizona",122,12.151244692397368
+"Gilmore, Matthew - U North Dakota",121,4.982991173187232
+"Maidment, David Robert - UT Austin",121,5.843419104045529
+"Mukkamala, Ravi - Old Dominion U",121,5.81652604023397
+"Naylor, Jason - Purdue U",121,10.866326127820729
+"Campbell, Robert Lee - Penn State Behrend",120,13.926983144959332
+"Glotzer, Sharon C - U Michigan",120,8.85087549338598
+"Narayanan, Desika - Haverford College",120,13.751848118222881
+"Welty, Claire - U Maryland, Baltimore Co",120,9.60621690911868
+"Akhavan, Rayhaneh - U Michigan",119,6.082610968796457
+"Ghaffari, Noushin - Texas A&M",119,12.228880718287039
+"Rolfe, Bryan Andrew - Cornell U",119,3.2835805318720053
+"Ingber, Lester - Lester Ingber Res",117,3.0795240420542362
+"Yakobson, Boris I - Rice U",117,2.780203678597214
+"Dongare, Avinash M - U Connecticut",116,29.62262648719725
+"Guenza, Marina - U Oregon",115,8.887623399883461
+"Haiman, Zoltan - Columbia U",115,13.946600093168858
+"Hanken, Benjamin - Oregon State U",115,14.04924530037849
+"Li, Ju - MIT",115,4.84252849528684
+"Medlin, James W. - CU Boulder",115,5.55657876410758
+"Guo, Hong - U Tennessee",114,3.3867358869933297
+"Gupta, Sandeep - Virginia Tech",114,45.77001147532337
+"Levine, Zachary - UC Santa Barbara",114,5.419963099505385
+"Marrocchelli, Dario - MIT",113,2.6067889365193153
+"Mullendore, Gretchen Louise - U North Dakota",113,16.07869688114262
+"Shen, Chengcai - Smithsonian Astrophys Obs",113,7.692113265693814
+"Fakheri, Ahmad - Bradley U",112,41.65466493816883
+"Jensen, Lasse - Penn State U",112,10.671866448096436
+"Oppenheim, Meers - Boston U",112,10.561255748457352
+"Sewell, Christopher Meyer - LANL",112,39.51721935414208
+"Thorpe, Ian F - U Maryland, Baltimore Co",112,2.077986379255497
+"Mazumdar, Sagnik - U Pittsburgh",111,18.02559292486995
+"Simmons, David Samuel - U Akron",111,2.116655754712423
+"Hong, Sampyo - U Central Florida",110,5.364809291769081
+"Llinas, Miguel - CMU",110,4.122378568837306
+"Farley, Robert Alan - USC",109,4.142685872515024
+"Faucher-Giguere, Claude-Andre - Northwestern U",108,9.198053955324294
+"Howison, Mark - Brown U",108,29.137452147494372
+"Lin, Ching-long - U Iowa",108,3.8325249906175958
+"McCourt, Michael - Harvard U",108,21.87481530409475
+"Berger, Robert - W Washington U",107,8.177621529036253
+"Brouwer, William - Penn State U",107,9.133768374335752
+"Fleming, Karen - Johns Hopkins U",107,3.7741486790097625
+"Fu, Chao - U Wisconsin-Madison",107,3.188773358406957
+"Gray, Jeffrey J - Johns Hopkins U",107,1.199020257541829
+"Liu, Philip L-F. - Cornell U",107,10.842301471089407
+"Meneses, Esteban - U Pittsburgh",107,6.218553816895681
+"Poulos, Thomas - UC Irvine",107,4.3229811267848515
+"Andresen, Daniel - Kansas State U",106,14.648716288087803
+"Fringer, Oliver - Stanford U",106,9.355324906092381
+"Langer, Robert Samuel - MIT",106,12.074570134510639
+"Thakur, Bhupender - Louisiana State U",106,35.35219240803249
+"Wang, Sanwu - U Tulsa",106,5.87880608120024
+"Yang, Melinda Anna - UC Berkeley",106,9.99722356039825
+"Hazlewood, Victor - NICS",105,3.815995266878838
+"Haworth, Daniel - Penn State U",104,1.803756292277662
+"Kleinfeld, David - UC San Diego",104,7.602362683228613
+"McCammon, James Andrew - UC San Diego",104,2.7893509713748026
+"Terry, Paul W - U Wisconsin-Madison",104,42.534051491145604
+"Van de Walle, Chris G. - UC Santa Barbara",104,1.0864209087383567
+"Zhou, Yunkai - S Methodist U",104,32.207372056994735
+"Ackerman, David - Cornell U",103,2.194189769039454
+"Hauptmann, Alexander - CMU",103,9.813046151020458
+"Mason, Sara E. - U Iowa",103,7.642051707424126
+"Pettitt, Bernard Montgomery - UT Med Branch",103,1.126306845673574
+"Shapiro, Stuart L. - UIUC",103,1.6100757968920223
+"Tsyshevsky, Roman - U Maryland",103,2.9766752253019146
+"Xue, Ming - U Oklahoma",103,0.337785285261207
+"May, Eric Robert - U Connecticut",102,3.5291870466685644
+"Kaul, Ribhu - U Kentucky",101,6.784517847842033
+"Sobh, Nahil A - UIUC",101,2.894634104744419
+"Spearot, Douglas - U Arkansas",101,5.755218839026103
+"Wang, Liya - Cold Spring Harbor Lab",101,12.565095452751983
+"Demeler, Borries - UT Hlth Sci Ctr San Antonio",100,1.6048454771501484
+"Hacker, Thomas - Purdue U",100,12.627802281349371
+"Shen, Meng - Northwestern U",100,8.466975214033447
+"Wang, Xianqiao - U Georgia",100,9.039131242777335
+"Yoshida, Beni - Caltech",100,16.250890613175056
+"Allison, Jason Robert - TACC",99,18.9782939795087
+"Beckham, Gregg T - NREL",99,3.483815141934029
+"Hu, Chi Yu - CSU-Long Beach",99,55.78441748889389
+"Masud, Arif - UIUC",99,10.86707777921208
+"Wilkins-Diehr, Nancy - UC San Diego",99,1.7755025851704271
+"Echeverria, Ignacia - U Maryland",98,11.124297730643494
+"Kral, Petr - U Illinois, Chicago",97,4.950671829319747
+"Kritsuk, Alexei - UC San Diego",97,14.86836747556462
+"Krylov, Anna - USC",97,6.664568643751311
+"Kumar, Abhishek  - ORNL",97,16.144601207633425
+"Linninger, Andreas - U Illinois, Chicago",97,3.8615945163550776
+"Vlachos, Dionisios - U Delaware",97,4.5305781823977025
+"Wistey, Mark - U Notre Dame",97,5.014371869341835
+"akgun, ugur - Coe College",97,1.3965358024156578
+"Cannon, John Francis - U Missouri, Columbia",96,6.896373547142253
+"Huang, Howie - George Washington U",96,10.600488633479113
+"Medvedeva, Julia E. - Missouri S&T",96,1.7732443206645985
+"Nishikawa, Ken-Ichi - U Alabama, Huntsville",96,13.560709347050375
+"Wing, Rod Anthony - U Arizona",96,0
+"Ghosh, Somnath - Johns Hopkins U",95,15.217587280220487
+"Kaplinghat, Manoj - UC Irvine",95,7.945425822168558
+"Mason, Christopher Edward - Weill Cornell Med College",95,4.107409589257478
+"Shao, Chen  - Northwestern U",95,30.992735757618973
+"Stitt, Tim - U Notre Dame",95,16.230341955732168
+"Teukolsky, Saul A. - Cornell U",95,6.5758574763970055
+"Yang, Da - Caltech",95,15.989022297309404
+"Colvin, Michael E - UC Merced",94,5.589514709043584
+"Singh, Tajendra Vir - UCLA",93,2.898732197517449
+"Chew, Huck Beng - UIUC",92,1.6814558038060476
+"Debenedetti, Pablo G - Princeton U",92,2.994096941271859
+"Jayaraman, Balaji - Penn State U",92,4.661166332630177
+"Schoettler, Matthew  - UC Berkeley",92,15.132156731786898
+"Chelikowsky, James R - UT Austin",91,5.305645762583601
+"Greene, Christopher H. - Purdue U",91,12.094696199831375
+"RAI, NAVNEET  - UC Davis",91,16.40085923666966
+"Rivero, Jose Pablo - U Arkansas",91,1.4307717241399707
+"Tucker, Garritt J'Von - Drexel U",91,6.923292649575975
+"Grossman, Jeffrey C. - MIT",90,1.2963107609636668
+"Kim, Minji - UIUC",90,22.025693981034795
+"Marx, Lawrence - COLA",90,4.7122104471493325
+"Voyles, Paul M - U Wisconsin-Madison",90,2.230457035730637
+"Bhide, Ravindra - U Utah",89,2.65015464331245
+"Grosman, Claudio Fabian - UIUC",89,0.4689027085063183
+"Notaros, Branislav  - Colorado State U",89,11.494234766358773
+"Valocchi, Albert J. - UIUC",89,9.368592575117965
+"Aidun, Cyrus K - Georgia Tech",88,1.6788300171690598
+"Gygi, Francois - UC Davis",88,9.542847736662598
+"Mehdizadeh, Amirfarhang - Penn State U",88,1.8854027866196326
+"Olsen, Bradley David - MIT",88,7.3169736840712405
+"Tseng, Kadin - Boston U",88,4.817549401076986
+"Engelman, Donald M - Yale U",87,3.5869992576347487
+"Hennig, Richard G. - U Florida",87,2.7850986068345573
+"Koenig, Peter - Procter & Gamble",87,14.976609900552528
+"Leszczynski, Jerzy - Jackson State U",87,2.820866236473776
+"Meneveau, Charles - Johns Hopkins U",87,3.0941774793826253
+"Shih, Liwen - U Houston-Clear Lake",87,22.170705792676618
+"Yandell, Mark Douglas - U Utah",87,12.428837632922189
+"Buehler, Markus J - MIT",86,5.567834683558359
+"Dhakal, Subas - Syracuse U",86,1.3621297006014537
+"Matysiak, Silvina - U Maryland",86,4.24325452227149
+"Speyer, Gil - Arizona State U",86,9.701844491244547
+"Wei, Tao - Lamar U",86,2.958446039266679
+"Feigenson, Gerald W - Cornell U",85,1.3455637739360156
+"Hawkins, Andrew Nathan - US EPA",85,21.179212934522436
+"Huang, Bohua - George Mason U",85,0.7251795334309203
+"MacLeod, Morgan Elowe - UC Santa Cruz",85,9.801917487838004
+"Yin, Wotao  - UCLA",85,10.893601513780371
+"DeTore, Suzanne - Syracuse U",84,8.680569311826627
+"Kindt, James - Emory U",84,1.8688739232045048
+"Sarkar, Sutanu - UC San Diego",84,5.966149263310743
+"Sheikhi, Reza H - Northeastern U",84,7.43376112068791
+"Yin, Wanjian  - NREL",84,18.89536465965203
+"Ahmed, Shaikh S - SIU Carbondale",83,13.331941328877363
+"Mellor-Crummey, John Michael - Rice U",83,12.855456909883697
+"Mittal, Jeetain - Lehigh U",83,3.5986269313245565
+"Straus, David - COLA",83,3.446914273083126
+"Yang, Chao-Yie - U Michigan",83,1.5788165992767798
+"Klinge, Sebastian N - Rockefeller U",82,12.610231711412554
+"MacKerell, Jr., Alexander D. - U Maryland, Baltimore Co",82,1.5562417801556347
+"Pop, Mihai  - U Maryland",82,9.494910917609147
+"Colonius, Timothy - Caltech",81,6.8180246886573315
+"Dirmeyer, Paul Alan - George Mason U",81,2.6972401191134026
+"Ivanov, Ivaylo - Georgia State U",81,2.264578579921866
+"Karna, Tuomas Petteri - Oregon Health & Sci U",81,6.259295423974098
+"Schneider, Edwin K - George Mason U",81,0.6550492695518139
+"Watkins, Stephan Lloyd - Oregon State U",81,1.1466537486514037
+"Keten, Sinan - Northwestern U",80,4.0115393295694375
+"Weinstein, Benjamin Gregory - SUNY Stony Brook",80,8.511417349893408
+"Chen, Ke - WHOI",79,1.5153535221757246
+"Combariza, Jaime E - Johns Hopkins U",79,20.59374125350147
+"Hill, Alex S - Haverford College",79,5.7855407109965835
+"Emerick, Andrew James - Columbia U",78,12.696961368559103
+"Falgout, Jeff - USGS",78,12.630669478667825
+"Gubbins, Keith E. - NC State U",78,3.100501376787181
+"Karabadzhak, Alexander G - Yale U",78,5.235091284653201
+"Cohen, Ronald E. - CIW",77,1.3159397176877476
+"Jha, Shantenu - Rutgers U",77,1.6621133540983082
+"O'Brien, Caroline - MIT",77,4.420072062907607
+"Reichman, David - Columbia U",77,16.64372571607248
+"Taha, Tarek - U Dayton",77,19.585696954862044
+"Esposito, Gaetano  - Emory U",76,9.892193892155571
+"Kannan, Rahul  - MIT",76,10.555973258234951
+"Reid, Keon Andre - Emory U",76,4.049235673949671
+"Engel, Jonathan H - UNC",75,3.8828332634963383
+"Jones, Matthew D. - SUNY Buffalo",75,0.34466978458348607
+"Latour Jr., Robert A. - Clemson U",75,3.502021694198595
+"Palen, Brock - U Michigan",75,9.459036502350934
+"Wereszczynski, Jeff - IIT",75,2.6516990511015197
+"van der Vaart, Arjan - U South Florida",75,1.1317070589896616
+"Fleming, Scott W - STScI",74,12.609114534872825
+"Herce, Henry David - RPI",74,0.8315453674955938
+"Kaxiras, Efthimios - Harvard U",74,1.9439609573749734
+"Llebot, Clara - Oregon Health & Sci U",74,1.4086624259694351
+"Luo, Haoxiang - Vanderbilt U",74,8.629533452081013
+"Marsden, Alison Lesley - UC San Diego",74,2.295917571202803
+"McKenna, Frank - UC Berkeley",74,19.910923877866534
+"Shen, Tongye - U Tennessee",74,1.7457809362096774
+"Voth, Gregory A - U Chicago",74,1.525235427301983
+"Weng, Jing-Ke - Whitehead Inst for Biomed Res",74,2.883960008661194
+"Zhang, Peng - SUNY Stony Brook",74,2.3905647614468024
+"Ebrahimi, Davoud - MIT",73,3.2490308916707287
+"Evans, Alexander J - Columbia U",73,4.149733392844075
+"Grefenstette, John - U Pittsburgh",73,6.05787266190027
+"Liu, Xiaofeng - Penn State U",73,7.628057576247474
+"Park, Jeho - Harvey Mudd College",73,6.023462497761516
+"Radko, Timour - Naval Postgrad School",73,3.4501921263691497
+"Zhang, Yuyang - ORNL",73,3.005399850857746
+"Bhaganagar, Kiran - UT San Antonio",72,1.542768954962611
+"Dufek, Josef - Georgia Tech",72,6.704419851381174
+"Ganapathysubramanian, Baskar - Iowa State U",72,1.5764977271869558
+"Garcia, Adrian  - UC Irvine",72,1.4675987714106857
+"Massey, Steven Edward - UPR Rio Piedras",72,16.962050593946824
+"Siepel, Adam Charles - Cornell U",72,10.062851814435767
+"Thornton, Katsuyo - U Michigan",72,5.67385840804115
+"Torkian, Ben - U South Carolina",72,2.374230338463744
+"Cai, Dong - U Houston",71,7.536664526894386
+"Cronin, Stephen B. - USC",71,2.2558637554708585
+"Hampton, Scott S. - U Notre Dame",71,13.562297657487926
+"Lueptow, Richard M. - Northwestern U",71,2.3896763026872416
+"Sweeney, Mark C - CU Boulder",71,7.458007159298976
+"Vladimirova, Natalia - U New Mexico",71,3.5567822953324013
+"Fiser, Andras - Einstein College of Med",70,1.8628040445274077
+"Lilly, Taylor Clark - CU Colorado Springs",70,0.9691847659730681
+"Neilson, James Richmond - Colorado State U",70,7.403622831949591
+"Rogers, Nathan Y - UC Santa Barbara",70,4.233304172272852
+"Shi, Lei - Weill Cornell Med College",70,0.9415356286989187
+"Sugar, Robert L. - UC Santa Barbara",70,3.680310439549764
+"Belyaev, Mikhail Alexander - UC Berkeley",69,6.117876397217522
+"Cheatham, Thomas E. - U Utah",69,1.8943626039787866
+"Cooperman, Gene - Northeastern U",69,3.8038479212766916
+"Lastoskie, Christian - U Michigan",69,10.97630322298767
+"Oyana, Tonny J. - SIU Carbondale",69,4.040268600208264
+"Wong, Kim - U Pittsburgh",69,6.076683808840494
+"Woolf, Thomas B - Johns Hopkins U",69,3.792426071653989
+"Cargile, Phillip Andrew - Harvard U",68,1.404058937117763
+"Duan, Huaiyu - U New Mexico",68,3.09751638932021
+"Dutt, Shantanu  - U Illinois, Chicago",68,3.0238711162889977
+"Pillsbury, Sarah-Jane Frankland - St Vincent College",68,5.37542107543785
+"Ren, Pengyu - UT Austin",68,3.3638452400974166
+"Romero, Aldo Humberto - West Virginia U",68,0.8671593255581512
+"Alexander-Katz, Alfredo - MIT",67,2.4874803699952888
+"Christopher, Phillip N - UC Riverside",67,3.2209263260651353
+"Hoffmann, Klaus - Wichita State U",67,10.218457661699668
+"Macdonald, Janet  - Vanderbilt U",67,4.467495777444171
+"Yakushin, Igor - Penn State U",67,5.684123680582117
+"Baruah, Tunna - UT El Paso",66,1.4761905620580902
+"Huang, Xiaopeng - MIT",66,0.8628742086937108
+"Jameson, Antony - Stanford U",66,2.3922344317915822
+"Monismith, David Richard - NW Missouri State U",66,0.9858068581378626
+"Moore, Shirley Victoria - UT El Paso",66,6.266483622793654
+"Schmidt, David Paul - U Mass, Amherst",66,1.6491550873031873
+"Sharifzadeh, Sahar  - Boston U",66,8.708233651742088
+"Shen, Xiao - Vanderbilt U",66,2.76321172331156
+"Tatarinova, Tatiana V - USC",66,10.725340975340437
+"Vahid, Amir - Northwestern U",66,3.5931490931522405
+"Ashlock, Jeramy C - Iowa State U",65,0.18891320510623702
+"Baden, Scott B. - UC San Diego",65,3.9566848131398844
+"Connor, Edward F - San Francisco State U",65,0.4348883337441915
+"Harrison, Ian - U Virginia",65,0.758457302986993
+"Heryadi, Dodi - U Notre Dame",65,10.672581693292397
+"Papavassiliou, Dimitrios V - U Oklahoma",65,1.7990884697684173
+"Weisz, Dan R - U Washington",65,4.0177679723577455
+"Barlas, Yafis  - UC Riverside",64,2.369840732876965
+"Chang, Philip - U Wisconsin-Milwaukee",64,2.2776386222224017
+"Dalcanton, Julianne - U Washington",64,1.5245167068692187
+"Deierlein, Gregory - Stanford U",64,7.297921091235661
+"Guven, Ibrahim - U Arizona",64,0
+"Heraty, John - UC Riverside",64,0
+"Johnson, Erin R - UC Merced",64,0
+"Kennefick, Daniel John - U Arkansas",64,0
+"Kiefer, Boris - NM State U",64,0.7046443473602765
+"Kim, Kyung-Suk - Brown U",64,0.38396233617857356
+"Lisy, James M. - UIUC",64,0
+"Moore, Richard - UC San Diego",64,6.545833724905323
+"Nilsson, Mikael - UC Irvine",64,0
+"Sukenik, Shahar  - UIUC",64,4.48059626562569
+"Thoma, Brent Patrick - U Louisiana, Lafayette",64,0
+"Travesset, Alex - Iowa State U",64,0.23326291431954482
+"Wells, Buren - U Alabama, Huntsville",64,14.71208396769427
+"von Oehsen, James Barr - Clemson U",64,3.416280638209917
+"Deike, Luc J.R - SIO",63,0.9010339865387768
+"Kirschner, Denise - U Michigan",63,1.8608934830799448
+"McCullagh, Martin - Colorado State U",63,4.540125630540455
+"Nangia, Shikha - Syracuse U",63,1.5333768730885595
+"Richardson, Chris - Elon U",63,3.3697302780524447
+"Shearer, Peter  - UC San Diego",63,4.01253032335838
+"Thota, Abhinav S - Indiana U",63,12.889378241796946
+"Wang, Chen Santillan - UC Riverside",63,0.495654122908615
+"Zang, Jiadong - Johns Hopkins U",63,1.8426739399127279
+"Burkman, John Bradford - LSMSA",62,12.474956779691587
+"Collins, David - Florida State U",62,6.5715228459508035
+"Hati, Sanchita - U Wisconsin-Eau Claire",62,1.0473294157930293
+"Luo, Tengfei - U Notre Dame",62,1.3037881215273064
+"Sinno, Talid - U Pennsylvania",62,2.0275818978276137
+"Arafin, Shamsul - UCLA",61,1.2700031743911842
+"Cuffe, John - MIT",61,1.5427094347145047
+"Johnson, Lewis E. - Pomona College",61,9.410978616551896
+"Whittle, Andrew John - MIT",61,2.015350017093281
+"Allen, Philip B - SUNY Stony Brook",60,0.9427339855193062
+"Aluru, Narayana R - UIUC",60,4.1689854246391205
+"Choudhury, Pabitra - New Mexico Tech",60,1.4568485679712901
+"Harrigan, Timothy P. - Johns Hopkins U",60,0.8534118110475106
+"Jang, Seung Soon - Georgia Tech",60,3.8449967490233314
+"Ozel, Feryal - U Arizona",60,3.757290322480181
+"Walz, Thomas - Harvard Med Sch",60,4.056401186763697
+"Zhang, Xiuwen - CU Boulder",60,1.9183117906001446
+"Barth, Patrick - Baylor College of Med",59,14.363694291847668
+"Kieffer, John - U Michigan",59,0.5025641489044819
+"Swisdak, Michael - U Maryland",59,28.55533938571702
+"Escobedo, Fernando - Cornell U",58,2.642626821872616
+"Filizola, Marta - Mt Sinai Sch of Med",58,4.120705097875959
+"Matyushov, Dmitry V - Arizona State U",58,1.2935386695874855
+"Sitti, Metin - CMU",58,3.5243042530421462
+"Sun, Ying - Drexel U",58,1.5450446355123175
+"Zhong, Xiaolin - UCLA",58,1.2999568469683562
+"Bui, Hoang - Rutgers U",57,28.578838324886476
+"Depalle, Baptiste  - MIT",57,5.456448889513232
+"Im, Wonpil - U Kansas",57,0.4891411348330606
+"Krasa, Stefan - UIUC",57,3.5763313433647617
+"Lin, Hai - CU Denver",57,3.665555684737665
+"Meng, Ying Shirley - UC San Diego",57,1.6093183467775125
+"Nesbitt, Stephen William - UIUC",57,6.700761385613548
+"Pope, Stephen B. - Cornell U",57,0.31195791076854223
+"Schmeeckle, Mark W - Arizona State U",57,5.193361997990655
+"Wachira, James Munuhe - Morgan State U",57,11.132012909869783
+"Yildiz, Bilge - MIT",57,0.9017508606810597
+"Cherry, Elizabeth M. - RIT",56,4.77303813143319
+"Harrison, Julia - U Utah",56,8.25581753017781
+"Iglesia, Enrique - UC Berkeley",56,3.498213737074143
+"Marronetti, Pedro - NSF",56,3.265945132947721
+"Pratt, Lawrence Riley - Tulane U",56,2.76833529437073
+"Qian, Xiaofeng - MIT",56,2.0426751699902326
+"Trinkle, Dallas R. - UIUC",56,0.38857519721669015
+"Andricioaei, Ioan - UC Irvine",55,2.7992831455837437
+"Beck, Jordan P - Concordia U",55,0.9581351604972281
+"Broyde, Suse - NYU",55,0.9827712827958298
+"Caplins, Serena Angelina - UC Davis",55,12.279488134264362
+"Demmel, James Weldon - UC Berkeley",55,1.0001879127489974
+"Kukekova, Anna V - UIUC",55,10.619658537871208
+"Magyari-Kope, Blanka - Stanford U",55,0.8404657185912797
+"Martyr, Rosanne - UC San Diego",55,2.56009750118058
+"McDevitt, Brian  - Boise State U",55,4.020206166014984
+"Xue, Yongkang - UCLA",55,2.145538760507424
+"Torrey, Paul Adam - MIT",54,10.168911432889024
+"Walls, Kenneth - U Alabama, Birmingham",54,3.5831159906221446
+"Chen, Hanghui - Columbia U",53,1.4026211507820434
+"Cheng, Yu-Ting - Johns Hopkins U",53,3.110157266240234
+"Chowdhury, Rezaul Alam - SUNY Stony Brook",53,2.035251290238256
+"Evans, Charles R. - UNC",53,5.130807698079045
+"Liu, Zi-Kui - Penn State U",53,0.23565705345202498
+"Psarras, Peter Campbell - Stanford U",53,2.2147102441346345
+"Raymer, Eric - Columbia U",53,1.5594448928389812
+"Wang, Xiao-Qian Larry - Clark Atlanta U",53,3.128747383338896
+"Yang, Li - Washington U",53,0.6388969509108967
+"Basheer, Ershaad Ahamed - Temple U",52,9.48614936399789
+"Elmore, Donald E - Wellesley College",52,4.567869940800268
+"Lake, Roger K - UC Riverside",52,0.7942875278065527
+"McGill, Brian James - U Maine",52,18.286288782030116
+"Miller, Michael I - Johns Hopkins U",52,2.0762183392577818
+"Mukhopadhyay, Saikat  - ORNL",52,6.000000000000001
+"Voelz, Vincent Alvin - Temple U",52,1.5094399566309133
+"Alexandrova, Anastassia - UCLA",51,4.24481051026402
+"Chen, Jianhan - Kansas State U",51,2.8123576442857234
+"Chrisochoides, Nikos - Old Dominion U",51,2.3340608959012146
+"Hsu, Tian-Jian - U Delaware",51,2.8979746135694953
+"Schmidt, Jordan R - U Wisconsin-Madison",51,2.5121140206697468
+"Zerze, Hasan - Lehigh U",51,4.341825855837918
+"Baker, Nathan - PNL",50,1.1123548594460895
+"Brannen, Kathleen Merritt - U Tennessee",50,4.367150100465976
+"Mondal, Jagannath - Columbia U",50,1.6974760395397424
+"Pacheco, Alexander - Lehigh U",50,5.888946213033364
+"Pogorelov, Taras - UIUC",50,0.18118405559745582
+"Stout, Quentin F. - U Michigan",50,0.36266700134073626
+"Barraza-Lopez, Salvador - U Arkansas",49,1.028089824489114
+"James, Douglas Leonard - Cornell U",49,4.3631872700282415
+"Lambrecht, Daniel S - U Pittsburgh",49,0.6590274665859436
+"Mohamed, Sayeed - Arizona State U",49,3.5890484445803432
+"Pfaendtner, Jim - U Washington",49,0.10971407104399439
+"Rondinelli, James M - Northwestern U",49,0.507019649906218
+"Sakidja, Ridwan - Missouri State U",49,1.1902669800833776
+"Sivadasan, Jagadeesh - U Michigan",49,5.373550368541268
+"Tang, Pei - U Pittsburgh Sch of Med",49,2.934760273596315
+"Dos Santos, Elton Jose - Stanford U",48,0.15145839892589055
+"Filipp, Fabian V - UC Merced",48,0
+"French, Martin - Sandia",48,1.5715959102643622
+"Haase, Jennifer Susan - SIO",48,0
+"Lim, Marisa C - SUNY Stony Brook",48,0.6526300079223534
+"Singh, Arunima  - NIST",48,3.4193268111149933
+"Xu, Ling - U Michigan",48,0
+"Case, David A - Rutgers U",47,0.7108129597204833
+"Clemens, Kristina A - UC Berkeley",47,0.6100793012948239
+"Ebalunode, Jerry - U Houston",47,3.0169258952109326
+"Greaney, Peter Alex - Oregon State U",47,1.7690231806855468
+"Gregg, Nathan Eric - West Virginia U",47,1.002500289524208
+"Johnston, Hans - U Mass, Amherst",47,14.988689934951124
+"Londergan, Casey H - Haverford College",47,3.988593163756809
+"Morgan, Dane - U Wisconsin-Madison",47,0.5586025327261148
+"Mudgapalli, Ashok - U Nebraska, Med Ctr",47,4.091925044392657
+"O'Shea, Brian W. - Michigan State U",47,2.3885500003561333
+"Pierce, Marlon - Indiana U",47,0.6808933114860759
+"Qin, Sanbo  - Florida State U",47,3.3581708248295774
+"Severin, Andrew J - Iowa State U",47,4.118991747578208
+"Bar Lev, Yevgeny - Columbia U",46,1.2565317947377097
+"Chang, Chia-en A - UC Riverside",46,4.013159418258823
+"Heyden, Andreas - U South Carolina",46,0.5458817898727178
+"Kim, Byoung-Do - Harvard Med Sch",46,8.337282462126122
+"Larkins, Brian - Coastal Carolina U",46,1.180318866029569
+"McDowell, David L. - Georgia Tech",46,3.3432109755495607
+"Ozkan, Sefika Banu - Arizona State U",46,1.5403338725278888
+"Shrivastava, Indira - U Pittsburgh Sch of Med",46,0.9402269094437965
+"Sosonkina, Masha - Old Dominion U",46,2.5101989122464707
+"Stitzel, Joel - Wake Forest U",46,2.573124755623015
+"Triant, Deborah - U Virginia",46,6.592065197486454
+"Zhang, Yang - NC State U",46,0.45454689674663973
+"Aristilde, Ludmilla  - Cornell U",45,2.640583549497149
+"Bao, Shaowu - Coastal Carolina U",45,1.2674233684856173
+"Brunner, Robert J. - UIUC",45,1.4927030910758028
+"Dubin, Daniel Herschel - UC San Diego",45,1.8235870301994528
+"Firouzi, Mahnaz  - Stanford U",45,2.019940885215776
+"Hocky, Glen - Columbia U",45,14.117656063246617
+"Li, Jianing - U Vermont",45,7.975231530348718
+"Paluch, Andrew Scott - Miami U",45,4.371765059108985
+"Pegden, Wesley - CMU",45,6.5075236551219025
+"Shelton, John T - CMU",45,5.297903858299175
+"Timko, Michael Paul - U Virginia",45,2.38557374689072
+"Vaughn, Matthew W - TACC",45,1.4104435981470285
+"Awasthi, Amnaya - U Florida",44,2.8710279147256927
+"Betro, Vincent - U Tennessee",44,7.5227899703498
+"Bianchet, Mario Antonio - Johns Hopkins U",44,1.239613195491259
+"Burton, Orville Vernon - Clemson U",44,6.6332495807108
+"Durran, Dale Richard - U Washington",44,1.8063818709776416
+"Gennis, Robert B - UIUC",44,1.1944085558662392
+"Jia, ZhiGuang - Kansas State U",44,3.742979260032484
+"Nikolla, Eranda - Wayne State U",44,0.956274648402008
+"Seo, Jung-Hee - Johns Hopkins U",44,7.102328248925199
+"Wang, Guofeng - U Pittsburgh",44,0.9697184671887445
+"Weaver, Richard L - UIUC",44,7.669702965485901
+"Zayak, Alexey - Bowling Green State U",44,0.5062581750105519
+"Arnold, Nathan - Colorado State U",43,1.343957259143649
+"Berne, Bruce J. - Columbia U",43,0.4036252229415702
+"Cave, Robert J - Harvey Mudd College",43,7.215289648044154
+"Gaughan, Christopher - NSF",43,8.316793001545577
+"Jang, Changwoon - Drexel U",43,0.9158817412380318
+"Jiang, Qiyou - Rice U",43,1.5753502011772123
+"Space, Brian - U South Florida",43,1.4000668002592718
+"Stillman, Jonathon H - San Francisco State U",43,2.537866331063098
+"Tichy, Wolfgang - Florida Atlantic U",43,2.2373411011423894
+"Asta, Mark - UC Berkeley",42,0.5804326281979292
+"Belgin, Mehmet - Georgia Tech",42,4.268616852829348
+"Chen, Youping - U Florida",42,0.7560588601425158
+"Cowburn, David - Einstein College of Med",42,0.6126776983905822
+"Emami, Fatemesadat - Northwestern U",42,6.182987411707492
+"Goetz, Andreas Walter - UC San Diego",42,1.1791238075077026
+"Hoffman, Matthew - RIT",42,1.993174311678407
+"Kumta, Prashant N - U Pittsburgh",42,0.6150904056628542
+"Ma, Jianpeng - Baylor College of Med",42,7.94955524362392
+"Silberstein, Meredith Natania - Cornell U",42,0.35837934745815114
+"Zhou, Guangwen - SUNY Binghamton",42,0.7451700826576784
+"Bernard, Peter S. - U Maryland",41,2.4878073980728175
+"Brylinski, Michal - Louisiana State U",41,2.484004282191739
+"Giedt, Joel - RPI",41,1.4504401667944073
+"Grabow, Lars Christian - U Houston",41,0.8385473664993903
+"Schatz, Michael - Cold Spring Harbor Lab",41,13.450438988285324
+"Yang, Wei - Florida State U",41,1.0114795459598382
+"Acharya, Amit - CMU",40,4.578738936713059
+"Carretero, Ricardo  - San Diego State U",40,3.097231047499645
+"Cuadra, Jefferson A - Drexel U",40,2.644116458344301
+"Dumitrica, Traian - U Minn",40,2.8393111328711065
+"Hallman, Eric - CU Boulder",40,5.800418829871226
+"Navarro, John-Paul - ANL",40,0.3751023912259725
+"Nguyen, T riet - U Notre Dame",40,4.592167244341171
+"Regenwetter, Michel - UIUC",40,1.1098687837712353
+"Sutliff, Daniel Linden - NASA Glenn",40,6.866606133470395
+"Urbanic, John - PSC",40,5.201372676104181
+"Bratko, Dusan - Virginia Commonwealth U",39,1.2141065433301172
+"Dagda, Ruben - U Nevada, Reno",39,1.6833951538292675
+"Deskins, Nathaniel Aaron - WPI",39,1.6756094230502074
+"Engel, Annette Summers - U Tennessee",39,2.2718657111130143
+"Graf, Peter - NREL",39,2.231649452049928
+"Ignatchenko, Alexey V - St. John Fisher College",39,4.047715405015527
+"Jensen, Klavs F. - MIT",39,3.746542726301143
+"Place, Sean - U South Carolina",39,7.682173821072289
+"Romano, Giuseppe  - Hobart and William Smith Colleges",39,0.5982213956893767
+"Schmidt, Kevin E - Arizona State U",39,1.3439890316852439
+"Showman, Adam P. - U Arizona",39,2.7069630279508607
+"Taufer, Michela - U Delaware",39,0.8244654534011807
+"Wong, Wesley Philip - Harvard Med Sch",39,3.090362879894453
+"Zhang, Xueyi - UC Berkeley",39,4.04167639242777
+"Zhu, Xiao - Purdue U",39,2.720321366108537
+"Egolfopoulos, Fokion - USC",38,0.7428888925980399
+"Langlois, Timothy Richard - Cornell U",38,2.3313874470889395
+"Larson, Ronald G. - U Michigan",38,0.5826857471731124
+"Loftis, Bruce - CU Boulder",38,3.372678263037665
+"Lynch, William Bryan - U Evansville",38,2.1359336102372963
+"Mendenhall, Ruby - UIUC",38,2.5899781657106975
+"Miao, Maosheng - UC Santa Barbara",38,2.3514429942720363
+"Nandakumar, Krishnaswamy - Louisiana State U",38,4.972936313724236
+"Olatunji-Ojo, Olayinka Ayodamola - UC Berkeley",38,11.521316797529572
+"Tang, Wenjie - U Virginia",38,0.8585648651319234
+"Callis, Patrik R - Montana State U",37,0.6161300953598127
+"DeLisa, Matthew Peter - Cornell U",37,3.097607378040789
+"Gharakhani, Adrin - Applied Sci Res",37,2.5884279406305133
+"Vashisth, Harish - U New Hampshire",37,2.354253722944917
+"Xia, Meng - U Maryland, Eastern Shore",37,0.5532936327078312
+"Zhao, Shan - U Alabama",37,2.407518194111936
+"Zia, Roseanna Nellie - Cornell U",37,0.5810048995324961
+"Abrams, Cameron - Drexel U",36,0.24879404729305643
+"Brown, Shawn - PSC",36,5.196152422706632
+"Chandran, Uma - U Pittsburgh",36,1.4325702818329973
+"Farber, Robert M - BlackDog Endeavors",36,3.580071147711092
+"Martinez, Luis A - UPR Mayaguez",36,1.3681196273936573
+"Murcia-Delso, Juan - UC San Diego",36,1.4685548145196294
+"Vanapalli, Siva A - Texas Tech U",36,3.0992220824445154
+"White, Rachel Helen - U Washington",36,5.033222956847167
+"shoele, kourosh - Johns Hopkins U",36,6.20013717273805
+"Becker, Udo - U Michigan",35,0.7301259424638444
+"Block, Matthew - CSU-Sacramento",35,0.3569005982393358
+"Castillo-Chara, Jairo - Fayetteville State U",35,1.218994471645158
+"Ceder, Gerbrand - MIT",35,0.45982498121370935
+"Gayler, Dick - Kennesaw State U",35,3.274227096468196
+"Ge, Xiaoxia - CUNY City College",35,2.164086295454887
+"Gomez, Enrique Alberto - W Carolina U",35,1.0809168999140921
+"Jackson, Caesar - NC Central U",35,0.9337660980896567
+"Jadaun, Priya  - Cornell U",35,1.4963824470739502
+"Jin, Jian-Ming - UIUC",35,2.053883620264195
+"Levy, Ronald M - Rutgers U",35,1.1148840679999004
+"Madison-Villar, Mercedita - Colorado State U",35,1.7593282186909605
+"Martini, Ashlie - UC Merced",35,1.2553483541143509
+"Sarupria, Sapna  - Clemson U",35,2.434322479383048
+"Shao, Qing - NC State U",35,1.3827526723374648
+"West, Ana  - Mercer U",35,2.0309445237355033
+"Youssef, Mostafa - MIT",35,0.7042230049230455
+"Cheung, Margaret S. - U Houston",34,2.028466402957448
+"Deshlahra, Prashant - UC Berkeley",34,1.0630891904274469
+"Eldredge, Jeff D - UCLA",34,0.9268498605652586
+"Jarzecki, Andrzej A. - CUNY Brooklyn College",34,1.4530760235743012
+"Jayaraman, Arthi - U Delaware",34,0.7433209756155216
+"Keating, Brian - UC San Diego",34,1.6791715351196634
+"Logan, Cheryl A - CSU-Monterey Bay",34,1.8671328590686018
+"Minkoff, Susan Elizabeth - UT Dallas",34,0.46853948435114323
+"Morrow, Christin Palombo - Michigan State U",34,1.0828425365428147
+"Neale, Chris - RPI",34,2.8364568886314623
+"Ong, Shyue Ping - UC San Diego",34,0.5267276475196822
+"Wang, Yixuan - Albany State U",34,1.8261505887014613
+"shaner, nathan c - Scintillon Inst",34,2.4101036653483807
+"Bhattacharyay, Sudeep - U Wisconsin-Eau Claire",33,0.4480000000000007
+"Brown, Laura E - Michigan Tech",33,0.7105515794207236
+"Budzien, Joanne - MacMurray College",33,1.3757947802079529
+"Desinghu, Balamurugan - U Chicago",33,1.8061996657076573
+"El-Khoury, Patrick Zakhia - PNL",33,0.017109271728496498
+"Fatahalian, Kayvon - CMU",33,0.3309960151275032
+"Gurbuz, Elif  - UC Berkeley",33,3.4622153908221596
+"Haglund, Richard Forsberg - Vanderbilt U",33,0.6931868880059078
+"Hall, Thomas Edwin - U Virginia",33,0.25847500449023575
+"Henry, Asegun - Georgia Tech",33,0.3449012777541872
+"Ismail-Beigi, Sohrab - Yale U",33,0.3429319238878057
+"Kolasny, Anthony - Johns Hopkins U",33,0.620681337281623
+"Kummel, Andrew - UC San Diego",33,0.10013552117175951
+"Li, Yafei - UPR Rio Piedras",33,1.9620957272124888
+"Mochena, Mogus D. - Florida A&M U",33,4.206128819157758
+"Orkoulas, Gerassimos - UCLA",33,1.2767118115376954
+"Schwarz, Kathleen A. - NIST",33,1.1843720221455445
+"Shlosman, Isaac - U Kentucky",33,4.699290726623895
+"Singh, Satbir - CMU",33,1.3792198508625244
+"Suhartanto, Heru  - U Indonesia",33,1.4342499974949323
+"Tang, Yongan - NC Central U",33,2.4397395119532757
+"Thomas, Wendy E. - U Washington",33,0.0917686497586486
+"Trelogan, Jessica Amie - UT Austin",33,2.97290184917455
+"Wang, Hao - Rutgers U",33,1.0678141885195678
+"Whited, Toni M - U Rochester",33,2.862830495580358
+"Abrams, Binyomin - Boston U",32,0
+"Allen, Richard - UC Berkeley",32,0
+"Arunachalam, Sarav - UNC",32,0.10330891216349866
+"Broadbelt, Linda - Northwestern U",32,0
+"Ciliberto, Federico - U Virginia",32,0
+"Crane-Droesch, Andrew - UC Berkeley",32,0
+"Dibble, Theodore S. - SUNY ESF",32,2.412755050562146
+"Dutton, Andrew - Suffolk U",32,0.04443441067234164
+"Errington, Jeffrey - SUNY Buffalo",32,0
+"Gao, Michael C. - US DoE",32,0.37094126226179314
+"Johnson, Richard Peter - U New Hampshire",32,0
+"Keasler, Samuel Joseph - Valley City State U",32,0
+"Keutzer, Kurt  - UC Berkeley",32,0.4520195840362799
+"Klauda, Jeffery B. - U Maryland",32,0.07505137883216183
+"Lockman, John A - UT Austin",32,4.111717672971021
+"Lwiza, Kamazima - SUNY Stony Brook",32,1.2078850786447766
+"Malone, John Henri - U Connecticut",32,1.9420594389674222
+"Merwade, Venkatesh - Purdue U",32,0
+"New, Joshua Ryan - ORNL",32,0
+"Omar, Ahmad K - Caltech",32,2.58136854364504
+"Ozturk, Birol  - Morgan State U",32,0
+"Preston, Jill Christine - U Vermont",32,0
+"Rappe, Anthony K - Colorado State U",32,9.797958971132712
+"Rathore, Rajenda - Marquette U",32,0
+"Reeves, Kyle Gregory - UNC",32,0
+"Rubenstein, Dustin Reid - Columbia U",32,0
+"Ruether, Andrew - Swarthmore College",32,0.10274080738970556
+"Shandera, Sarah Elizabeth - Penn State U",32,0
+"Song, Kevin - U Chicago",32,0.09986155238901422
+"Staton, Margaret Elizabeth - U Tennessee",32,0
+"Trmal, Jan - Johns Hopkins U",32,0
+"Wang, Zilu - U Connecticut",32,0
+"Westmoreland, Phillip R - NC State U",32,0
+"Xu, Dong - U Missouri, Columbia",32,2.295758147176731
+"Yu, Fan - Claremont McKenna College",32,0
+"Zheng, Lianqing - Florida State U",32,0
+"Amzel, L Mario - Johns Hopkins U",31,1.3158764042796927
+"Arensburger, Peter - Cal Poly",31,0.8681382378400336
+"Curtis, Emily - NC State U",31,0.7973712286046778
+"Czapla, Luke F - CUNY Staten Island",31,7.487988437899112
+"Del Maestro, Adrian - U Vermont",31,1.0670946360985591
+"Kiprof, Paul - U Minn, Duluth",31,6.578429336338051
+"McQuinn, Matthew Judd - U Washington",31,4.303192328510078
+"Ramprasad, Ramamurthy - U Connecticut",31,0.25788037171888417
+"Roy, Anindya - Johns Hopkins U",31,0.7091076446118381
+"Sharma, Arun - Wagner College",31,3.2944279606874662
+"Smith, Lydia - UC Berkeley",31,0.6631172112387803
+"Urbanc, Brigita - Drexel U",31,0.619929593789644
+"Wu, Xiaoyu - Purdue U",31,0.6709341593010689
+"Yeates, Todd  - UCLA",31,0.5057960865925192
+"Bergantz, George Walter - U Washington",30,1.556437596192308
+"Bittner, Noelle Kristen Jeffery - UC Berkeley",30,2.4613632480381686
+"Blood, Philip - CMU",30,7.176350047203661
+"Downar, Thomas J. - U Michigan",30,1.6507360950689876
+"Fergus, Dan J - NC Museum Natural Sci",30,1.7213259321211067
+"Fichthorn, Kristen - Penn State U",30,0.3679152429851303
+"Field, Ken - Bucknell U",30,1.7097826480551488
+"Friedman, Peter A - U Pittsburgh Sch of Med",30,0.4053569393491699
+"Ghosh, Avik - U Virginia",30,0.3824838266362174
+"Gonzalez, Ana C - UPR Mayaguez",30,1.310272464902238
+"Gopalakrishnan, Ganesh L - U Utah",30,4.489612824664351
+"Gordon, Karl Douglas - STScI",30,0.6180241021256825
+"Hills, Matthew - U Utah",30,2.415618131383372
+"Lushnikov, Pavel - U New Mexico",30,6.996320010119328
+"Miller, Mark Alan - UC San Diego",30,0.06933199183389444
+"Oleynik, Ivan - U South Florida",30,0.0826526481157297
+"Pederson, Mark R - US DoE",30,3.121776997069216
+"Rasulev, Bakhtiyor - Jackson State U",30,0.6261102928182802
+"Tan, Qiaohua - U Oklahoma",30,1.0786779446286352
+"Wang, Bin  - U Oklahoma",30,1.054896573870504
+"Wolski, Rich - UC Santa Barbara",30,3.1460660733138894
+"Yethiraj, Arun - U Wisconsin-Madison",30,0.6513367377002024
+"Caprez, Adam - U Nebraska, Lincoln",29,5.683087319564826
+"Chen, Long-Qing - Penn State U",29,1.7133300907881115
+"Chen, Shaohao - Louisiana State U",29,1.3851114983481159
+"Cohen, Dov - UIUC",29,1.279999999999999
+"Cui, Shengting - U Tennessee",29,2.0772154825797022
+"Dayal, Kaushik - CMU",29,2.4047555579020092
+"DeTuri, Vincent - Ithaca College",29,0.7176151527232688
+"Durbin, Paul - Iowa State U",29,0.27274133345336016
+"Graeve, Olivia A. - UC San Diego",29,1.6460698965497487
+"Hagan, Michael Francis - Brandeis U",29,0.09108281776073002
+"Maki, Kevin - U Michigan",29,2.205869127502333
+"Mueller, Timothy Keith - Johns Hopkins U",29,0.5452982247073397
+"Paddison, Stephen J - U Tennessee",29,0.3985739444539495
+"Perot, Blair - U Mass, Amherst",29,2.604903128328741
+"Radhakrishnan, Ravi - U Pennsylvania",29,0.43307140754393525
+"Rani, Sarma Laxminarasimha - U Alabama, Huntsville",29,2.7596362566792583
+"Tandon, Nandan - Michigan State U",29,0.24547518260675322
+"Wang, Chuan  - CIW",29,1.8696726784992188
+"Andriamanalimanana, Bruno  - SUNYIT",28,1.570389709251446
+"Armstrong, Anne Frances - UC Davis",28,1.0871483869477692
+"Burger, Virginia M - MIT",28,1.5459786916843343
+"Ghosh, Gautam - Northwestern U",28,0.65899115988976
+"Hoffmann, Roald - Cornell U",28,2.125400396436167
+"Laursen, Siris Odin - U Tennessee",28,0.46067685241717843
+"Lo, Cynthia S - Washington U",28,0.8503055714487361
+"McLaughlin, Don Edwin - West Virginia U",28,0.6197563704699901
+"Pamidighantam, Sudhakar V. - UIUC",28,0.38073413842157144
+"Parast, Mana M - UC San Diego",28,0.5413870510575577
+"Proga, Daniel - UNLV",28,10.392304845413264
+"Rulis, Paul Michael - U Missouri, Kansas City",28,4.052891057835775
+"Saha, Kaushik  - ANL",28,3
+"Tobin, Nicolas Andrew - UIUC",28,1.3653054884536089
+"Waag, Robert C - U Rochester",28,1.9247282601566487
+"Wolter, Nicole - UC San Diego",28,0.7902808690748808
+"Zhang, Zhiyong - Stanford U",28,1.7681627042938357
+"Fortney, Steven Michael - Hoover Inst",27,1.5889815398984073
+"Gull, Emanuel C - U Michigan",27,0.33078238791256626
+"Heien, Eric - UC Davis",27,3.5180028978362023
+"Jaron-Becker, Agnieszka Anna - CU Boulder",27,1.2080379331792526
+"Jawaheer, Damini  - Children's Hospital Oakland",27,0.8454918096412136
+"Madrid, Marcela - PSC",27,0.734362945108325
+"McNally, Stephen - U Tennessee",27,0.21906756748220993
+"Milner, Scott Thomas - Penn State U",27,0.5784370508094333
+"Nerenberg, Paul Samuel - Caltech",27,2.6488722375547566
+"Peng, Zhigang - Georgia Tech",27,1.1932426932522988
+"Samuel, Tabitha - U Tennessee",27,7.2213674711978255
+"Cui, Qiang - U Wisconsin-Madison",26,0.5117158388454275
+"Hall, Carol - NC State U",26,0.3484845262257676
+"Hansmann, Ulrich H.E. - U Oklahoma",26,1.1545508858766913
+"Hickman, Albert Peet - Lehigh U",26,0.6479314120230739
+"Liu, Don - Louisiana Tech",26,1.6006777897781717
+"Mon, Kin K - U Georgia",26,0.8402089454626832
+"Pritham, Ellen J - U Utah",26,0.7838367176906159
+"Reed, Mark S.C. - UNC",26,1.3139192638772936
+"Sales, Laura Virginia - ",26,8.58650103359919
+"Stone, Christopher P. - Individual/Unaffiliated",26,1.3027975742145572
+"Therkildsen, Nina Overgaard - Stanford U",26,5.202826894601851
+"Allen, Scott Edward - UNC",25,1.9022242209726863
+"Casey, Richard Michael - Colorado State U",25,2.5552210314510897
+"Donnell, David Michael - The Citadel",25,2.1498654453480497
+"Geib, Scott - US Pacific Basin ARC",25,1.543112224134735
+"Kumashiro, Kristin K - U Hawaii, Manoa",25,1.8701374180237644
+"Lane, Rob - Columbia U",25,0.657917462801368
+"Lin, Xi - Boston U",25,0.41546892205551544
+"Pipe, Kevin Patrick - U Michigan",25,4.683748498798798
+"Riggleman, Robert A - U Pennsylvania",25,1.4041972337943953
+"Sandin, Stuart A - UC San Diego",25,0.4778053862134722
+"Stephen, Andrew  - U Pittsburgh",25,0.9697631990835475
+"Werner, Gregory - CU Boulder",25,1.0540654054177732
+"Bapna, Sanjay  - Morgan State U",24,5.65685424949238
+"Braden, Michael Robert - U Montana",24,1.7888543819998317
+"Carpenter, Robert Dana - CU Denver",24,4.724252054906204
+"Chrispell, John Christopher - Indiana U of Penn",24,1.1680402027689987
+"Dahan, Maytal - TACC",24,0
+"Huo, Shuanghong (Sharon) - Clark U",24,2.461422872244631
+"Karin, Todd - U Washington",24,0.10908364371223624
+"Koizumi, Hideya - Arkansas State U",24,1.8739423172129472
+"Kurapov, Alexander - Oregon State U",24,3.5577013176424397
+"Maiden, Tom - PSC",24,1.3946842306620193
+"Muller, Axel - Caltech",24,1.4979134175414424
+"Nichols, Krista - NOAA",24,2.138089935299395
+"Pontiggia, Francesco - Brandeis U",24,1.3405207584312753
+"Prives, Carol - Columbia U",24,7.70910904707997
+"Quinn, Thomas R. - U Washington",24,1.4554964565324324
+"Ribeiro, Adolfo - UCLA",24,1.536429549255161
+"Saat, Mohd Rapik - UIUC",24,1.3250773200537072
+"Seetharam, Arun S - Iowa State U",24,1.3554292906441008
+"Smith, Noah A - CMU",24,0.8358237149911001
+"Tarrant, Ann Marie - WHOI",24,1.2320153592492062
+"Wang, Yu U - Michigan Tech",24,0.5856325381638171
+"Wikramanayake, Athula H - U Miami",24,1.2089223061118095
+"Zhou, Suping - Tennessee State U",24,1.2217727052846057
+"Beckerman, Bernard McAlpine - Northwestern U",23,1.7493810246979449
+"Bergstrom, Aaron Lee - U North Dakota",23,2.1715911726552335
+"Buchwald, James Richard - RPI",23,0.62654982255131
+"DAloisio, Anson - U Washington",23,2.117945094003292
+"Gardoni, Paolo - UIUC",23,0.726066995737173
+"Ilich, Peter - St. John's U",23,1.180566344199032
+"Indireshkumar, Keshavamurthy - Harvard U",23,3.505424368033066
+"Kandemir, Mahmut Taylan - Penn State U",23,0.9170723092155726
+"Kennedy, Graeme - Georgia Tech",23,0.7297291113831217
+"Liang, Zhi - RPI",23,1.543610502613091
+"Liu, Xinlian - Hood College",23,0.9372552886520369
+"Lu, Yu - Stanford U",23,1.570578477665598
+"MacManes, Matthew D - UC Berkeley",23,5.724334022399463
+"Markland, Thomas E - Stanford U",23,0.7247159857095227
+"Melguizo Gavilanes, Josue - Caltech",23,0.9829302260083091
+"Parris, Paul Ernest - Missouri S&T",23,0.6902733132588124
+"Pujari, Sumiran  - U Kentucky",23,1.003697815670936
+"Rossky, Peter Jacob - Rice U",23,1.1527967954742602
+"Wang, Jinbo  - SIO",23,2.4650416907462778
+"Wang, Yigui - Southern Conn State U",23,0.5674574804596658
+"Wilson, Alex C. C. - U Miami",23,1.4008843436268819
+"Zhong, Jinshun  - U Vermont",23,0.5631146592218091
+"kim, duck young - CIW",23,1.0538702822622557
+"Blecha, Laura E - U Maryland",22,0.557388040158861
+"Gilbert, Donald - Indiana U",22,0.6556408594650625
+"He, Hongshan - Eastern Illinois U",22,0.5593709778513014
+"Hur, Sewon - U Pittsburgh",22,1.840893502864544
+"Höhna, Sebastian  - UC Berkeley",22,1.6779364385322533
+"Kodali, Goutham - U Pennsylvania",22,0.7177518777453706
+"Laurent, Louise - UC San Diego",22,1.1522636394172867
+"Li, Jingjing - U Illinois, Chicago",22,1.4122116384904262
+"Martin, Tye - U New Mexico",22,0.9850907824446359
+"Mikulyuk, Alison F - U Wisconsin-Madison",22,3.7213215946675646
+"Pendleton, Ian - U Michigan",22,1.6459023998013853
+"Puthenveedu, Manojkumar Akkappillil - CMU",22,1.448835865401819
+"Ratan, Rabindra - Michigan State U",22,0.8303523728446235
+"Ruiz Juri, Natalia  - UT Austin",22,3.50780380010057
+"Towe, Elias - CMU",22,1.4802204518333675
+"Tufo, Henry - CU Boulder",22,2.7386127875258306
+"Wong, Bryan M - UC Riverside",22,0.23817916309512677
+"Bassman, Lori - Harvey Mudd College",21,0.6489200679229151
+"Fredrickson, Glenn - UC Santa Barbara",21,0.05287696016642022
+"Hajjar, Jerome F. - Northeastern U",21,0.27509322266560776
+"Hamann, Christian - Albright College",21,0.3712763847138055
+"Hofert, Joe  - Indiana Wesleyan U",21,0.4430949631422714
+"Jankowski, Eric - NREL",21,0.20789310603534836
+"Johnson, Margaret Ellen - Johns Hopkins U",21,0.6779365076059802
+"Lin, Enqiang - Rutgers U",21,0.7206467734064043
+"Maliar, Serguei - Stanford U",21,2.865884529641523
+"Menon Gopalakrishna, Prahlad - CMU",21,1.141344426089494
+"Nan, Xiaolin - Oregon Health & Sci U",21,0.41595441345666
+"Oguntade, Babatunde Olufemi - Rehoboth Group",21,2.051676490939945
+"Paesani, Francesco - UC San Diego",21,0.1452621518917367
+"Qian, Yu - Venter Inst",21,0.6264537919490801
+"Schiffer, Celia - U Mass Med Sch",21,4.160564026082098
+"Shakiba, Maryam - UIUC",21,0.433621628539341
+"Singh, Abhishek - NC State U",21,0.6531303052597247
+"Yu, Weiting  - UC Berkeley",21,0.6453410501503428
+"Acuna, Edgar  - UPR Mayaguez",20,3.153954433949319
+"Aruda, Amalia - WHOI",20,0.6194129703577551
+"Carothers, Linn Erwin - Calif Baptist U",20,0.3467136706888435
+"Chen, Zizhong - UC Riverside",20,1.9178218937968485
+"Childs, Hank Robert - UC Davis",20,0
+"Edirisinghe, Neranjan - Georgia State U",20,0.45222978390091534
+"Fang, Hanming - U Pennsylvania",20,2.862167011199732
+"Fortenberry, Ryan C - Georgia Southern U",20,0.620692738203111
+"Gallicchio, Emilio - CUNY Brooklyn College",20,0.266999986696931
+"Ichiye, Toshiko - Georgetown U",20,0.42334658894950966
+"Kulkarni, Milind - Purdue U",20,0
+"Liu, Honggao - Louisiana State U",20,0
+"Ma, Ping - U Georgia",20,0.7091551840820736
+"MacLachlan, Glen Alan - George Washington U",20,0
+"Marean, Curtis - Arizona State U",20,0.10849147874560364
+"McCandlish, David Martin - U Pennsylvania",20,0
+"McFarquhar, Greg Michael - UIUC",20,3.68840915363392
+"Neuhauser, Daniel - UCLA",20,0
+"Pias, Sally C - New Mexico Tech",20,0
+"Rivera, Wilson  - UPR Mayaguez",20,0
+"Roy, Arijit - SUNY Stony Brook",20,0
+"Sagona, Paul - U South Carolina",20,0.742561077964307
+"Schleicher, Jillian Marie - U Washington",20,1.0894259765277003
+"Shah, Premal  - U Pennsylvania",20,0
+"Stesiak, Ronald Robert - Individual/Unaffiliated",20,0
+"Wang, Jin - SUNY Stony Brook",20,0.9807458104095423
+"Wang, Lee-Ping - Stanford U",20,0
+"Warshel, Arieh - USC",20,0.3220280544027165
+"Wibking, Benjamin - Ohio State U",20,1.0954451150103321
+"Wu, Menghao - MIT",20,0.6623077474877103
+"Wulff, Jason A - Texas A&M",20,0.5372810002928036
+"Al-Qadi, Imad L. - UIUC",19,0.1966453579397617
+"Cousins, Kimberley R - CSU-San Bernardino",19,0.28937326358657245
+"Gruebele, Martin - UIUC",19,1.5760710643876437
+"Hammes-Schiffer, Sharon - UIUC",19,0.17238656538065106
+"Howat, Ian  - Ohio State U",19,0.2795892815919091
+"Joseph, Thomas - Mt Sinai Med Ctr",19,0.6870754444287808
+"Kozlowski, Marisa - U Pennsylvania",19,0.13123874029205226
+"Liu, Meilin - Georgia Tech",19,1.7213259322502033
+"Llovet, Pol - Montana State U",19,0.24503664082859916
+"Masunov, Artem - U Central Florida",19,0.8146205726606225
+"Polborn, Mattias - UIUC",19,1.0405494272024487
+"Qiao, Li  - Purdue U",19,0.5827000740595698
+"Ranz, Jose Maria - UC Irvine",19,0.5378761521654116
+"Rogers, Donald W. - Long Island U",19,0.6959776144397772
+"Ropelewski, Alexander John - CMU",19,0.29708011756431557
+"Sethna, James P - Cornell U",19,1.9892601000846086
+"Srolovitz, David J - U Pennsylvania",19,0.8771027907344692
+"Stegman, Dave - UC San Diego",19,0.23349895421573644
+"Stock, Brian Curtis - SIO",19,1.4963512479559984
+"Tambouret, Yann - Boston U",19,0.2407464192775819
+"Vandewalle, Axel - Brown U",19,0.05855868049815433
+"Wang, Shuai - UC Berkeley",19,0.13257210427122926
+"Willmore, Frank T - UT Austin",19,1.601092026540344
+"Wyble, Brad Paul - Penn State U",19,2.3248642124850525
+"Adams, James B. - Arizona State U",18,1.0133615119241999
+"Agrawal, Gagan - Ohio State U",18,0.17500633753519407
+"Barbone, Paul - Boston U",18,0.3912369646443339
+"Das, Rhiju - Stanford U",18,0.4249345074990164
+"Dinolfo, Peter H. - RPI",18,0.20104374054185764
+"Gilson, Michael - UC San Diego",18,0.30363193295112495
+"Gobbert, Matthias Klaus - U Maryland, Baltimore Co",18,1.0304979026873187
+"Hargrove, Paul Hamilton - LBNL",18,0.3002217546598923
+"Hernandez, Rigoberto - Georgia Tech",18,0.20062552226447722
+"Hratchian, Hrant Patrick - UC Merced",18,0.43324828163004003
+"Ingraffea, Anthony Richard - Cornell U",18,0.2706434773266225
+"Kalidindi, Surya R - Georgia Tech",18,0.7912724820069102
+"Kelkar, Yogeshwar - U Rochester",18,1.1222634359669992
+"Kulik, Heather Janine - MIT",18,0.08146578880045453
+"Landeau, Maylis - Johns Hopkins U",18,0.8167786223550625
+"Lehman, Julia Holland - CU Boulder",18,0.8007009204522132
+"Li, Fuhai - Methodist Hospital System",18,0.3386611444779786
+"Lin, Michael Z - Stanford U",18,0.4208206773136762
+"Manning, Christopher David - Stanford U",18,0.20585403816052855
+"Martin, Christopher B - Lamar U",18,0.4358604487349653
+"Montlouis, Webert - WEMSS Lab",18,0.8968260810457833
+"Oganov, Artem R. - SUNY Stony Brook",18,0.08999117064551379
+"Onyisi, Peter - UT Austin",18,0.27799940821032665
+"Plotnikov, Nikolay - Stanford U",18,1.9873015374651752
+"Poulter, Ben  - Montana State U",18,0.8361430412087745
+"Skola, Dylan Derik - UC San Diego",18,0.12055410649029209
+"Smith, Andrew Macartney - Ithaca College",18,0.8007009204522132
+"Soler-Crespo, Rafael Antonio - Northwestern U",18,0.3615648664447361
+"Tantillo, Dean J. - UC Davis",18,0.043194366091203806
+"Tran, Huan Doan - U Connecticut",18,0.6100735555788651
+"Walker, Edward - Whitworth U",18,0.26697565896854214
+"Walsh, Kevin John - Southwest Res Inst",18,2.1810303241348103
+"Yao, Tian - USRA",18,0.2372150341314303
+"Younis, Bassam A - UC Davis",18,0.27461625339293305
+"Zhao, Xinyu - U Connecticut",18,0.7492654651489795
+"Altintas, Ilkay - SDSC",17,0.1554143152344539
+"Appelo, Daniel - U New Mexico",17,0.07173463780463969
+"Bagchi, Prosenjit - Rutgers U",17,0.0015628824552412978
+"Ball, K. Aurelia - UC San Francisco",17,0.07773271693035048
+"Ballmer, Maxim Dionys - U Hawaii, Manoa",17,0.803168299736467
+"Bhatta, Ram S - U Akron",17,0.1980158037287899
+"Bovik, Alan Conrad - UT Austin",17,0.3093346993302418
+"Braatz, Richard - MIT",17,0.04121549010121248
+"Brunson, Dana - Oklahoma State U",17,0.3017171311854809
+"Casabianca, Jodi  - UT Austin",17,0.18389670415532094
+"Cauwenberghs, Gert  - UC San Diego",17,10.960155108391486
+"Chaki, Sagar  - CMU",17,0.3854554528063778
+"Chakraborty, Arindam - Syracuse U",17,0.05442081568185413
+"Chams, Tarek  - SUNY Binghamton",17,0.8660254037844386
+"Cheng, Tianle - NETL",17,0.21148801371839063
+"Clancy, Paulette  - Cornell U",17,0.18190620374839103
+"Clark, Adam T - U Minn",17,3.4483096606361014
+"Collier, Galen E. - Clemson U",17,0.15548901944829882
+"Contractor, Noshir - Northwestern U",17,0.072563376776294
+"Dimitrakopoulos, Panagiotis - U Maryland",17,0.04994978074812106
+"Dueber, John Eugene - UC Berkeley",17,0.6456417327551786
+"Dumenyo, Korsi - Tennessee State U",17,0.41119328428798607
+"Ecker, Joseph - Salk Institute",17,0.08099548442536741
+"Fu, Iris Wing Yin - UC Irvine",17,0.22299241712621395
+"Hartman, Jessica Helene - U Arkansas, Med. Sci",17,0.05663690140540182
+"Hauser, Thomas - CU Boulder",17,0.8196450753577696
+"Houk, Kendall N - UCLA",17,0.013963818832426126
+"Jorgensen, Kameron Renee - TAMIU",17,0.05819972844501093
+"Kettimuthu, Rajkumar - ANL",17,0.1529847081170518
+"Khare, Ketan Sudhakar - RPI",17,0.2767915017228694
+"Li, Weizhong - UC San Diego",17,0.1963077513123067
+"Linnen, Catherine Ramsay - U Kentucky",17,0.0689859204620178
+"Liu, Handan - Virginia Tech",17,0.18631217561017002
+"Liu, Peng - U Pittsburgh",17,0.0072500525719051976
+"Lombardi, James - Allegheny College",17,0.1910494775504182
+"Lu, Chang-Tsan  - U Mass, Amherst",17,0.059368895080723655
+"Lu, Fei - Cornell U",17,0.07032915825628781
+"Macrae, Roderick - Marian U",17,0.18746050196031547
+"Maga, Ali Murat - U Washington",17,0.8638447261277405
+"Matsika, Spiridoula - Temple U",17,0.15141241321208126
+"Miller III, Bill Ray - U Richmond",17,0.21412642456058417
+"Mo, Yifei - U Maryland",17,0.1612868565254938
+"Nachman, Michael W - UC Berkeley",17,0.24567998072165936
+"Nguyen, Hung D - UC Irvine",17,0.11185070031527826
+"Norman, Sean - U South Carolina",17,0.19786022275531423
+"Olivucci, Massimo - Bowling Green State U",17,0.010271180500871176
+"Oviedo, Maria Belen - UC Riverside",17,0.05152958959173432
+"Padak, Bihter - U South Carolina",17,0.1818092424765288
+"Phillips, James C. - UIUC",17,0.038479282835851704
+"Pinder, George Francis - U Vermont",17,0.4636161726102746
+"Pozzi, Matteo  - CMU",17,0.23019760706892733
+"Rao, Niny - Philadelphia U",17,0.8181748906717016
+"Santini, Francesco - UC Davis",17,0.03975146050043782
+"Shields, George C - Bucknell U",17,0.05792708400916808
+"Shirts, Michael R - U Virginia",17,0.10062606112997759
+"Shull, John Michael - CU Boulder",17,0.7797435475847161
+"Steele, Ryan Patrick - U Utah",17,0.05941406885022233
+"Stephani, Kelly - UIUC",17,0.14852245730975266
+"Taylor, James - Johns Hopkins U",17,0.3623154338979854
+"Towers, Sherry - Arizona State U",17,0.026603469764148874
+"Wang, Lu - Stanford U",17,0.035019346764903696
+"Wang, Zhechen - CU Boulder",17,0.20038957836155086
+"Witten, Tarynn Madysyn - Virginia Commonwealth U",17,0.04371386390856875
+"Wong, Adam - George Washington U",17,0.2562257968554178
+"Yang, Kesong - UC San Diego",17,0.02034328081389336
+"Ye, Mao - UIUC",17,0.03866891105895817
+"Zehnder, Alan Taylor - Cornell U",17,1.0037652026423636
+"Zhorin, Victor - U Chicago",17,0.6526300076244205
+"Abu-Sufah, Walid A - UIUC",16,0
+"Ackad, Edward - SIU Edwardsville",16,0
+"Alexander, William A - U Memphis",16,0
+"Allen, Genevera I - Rice U",16,0
+"Allison, Karmel - UC San Diego",16,0
+"Almeida, Sergio Fabian - UT El Paso",16,0
+"Andrews, Lester - U Virginia",16,0
+"Armentrout, Peter B - U Utah",16,0
+"Arora, Ritu - UT Austin",16,0
+"Bagchi, Saurabh - Purdue U",16,0
+"Balaji, Pavan - ANL",16,0
+"Bandaru, Varaprasad  - UC Davis",16,0
+"Baumgart, Tobias  - U Pennsylvania",16,0
+"Bellis, Matthew  - Siena College",16,0
+"Bergman, Robert G - UC Berkeley",16,0
+"Bernitsas, Michael M. - U Michigan",16,0
+"Bhatele, Abhinav - LLNL",16,0
+"Birke, Ronald Lewis - CUNY City College",16,0
+"Blaustein, Gail - Benedictine College",16,0
+"Bouaynaya, Nidhal - Rowan U",16,0
+"Brady, John - Cornell U",16,0
+"Bucci, Giovanna  - MIT",16,0
+"Campos, Luis M - Columbia U",16,0
+"Canino, James - Trine U",16,0
+"Casey, Bill - UC Davis",16,0
+"Chen, Li - MCPHS U",16,0
+"Clune, Jeff  - U Wyoming",16,0
+"Cook, Daniel E - Northwestern U",16,0
+"Coridan, Robert - Caltech",16,0
+"Cummings, Michael Paul - U Maryland",16,0
+"Daggett, Valerie - U Washington",16,0
+"Danko, Charles G - Cornell U",16,0
+"Davies, Stephen Clark - U Mary Washington",16,0
+"Denolle, Marine Anne Marie - SIO",16,0
+"Diaz-Cayeros, Alberto - Stanford U",16,0
+"Dinescu, Adriana - Wilkes U",16,0
+"Dix, James A. - SUNY Binghamton",16,0.23088630262532386
+"Duffy, Alison Guidry - U Washington",16,0
+"Ellis, Joseph Hugh - Johns Hopkins U",16,0
+"Fair, Justin David - Indiana U of Penn",16,0
+"Ferrada, Evandro - Santa Fe Inst",16,0
+"Flanagan, Sarah Perry - Texas A&M",16,0
+"Fowler, James H - UC San Diego",16,0
+"Franz, Annaliese - UC Davis",16,0
+"Freddolino, Peter - Columbia U",16,0
+"Freeman, Bob - Harvard U",16,0
+"Fu, Wen - Rice U",16,0
+"Garner, Robert N - U Incarnate Word",16,0
+"Gesing, Sandra - U Notre Dame",16,0
+"Ghosh, Siddhartha Shankar - NCAR",16,0
+"Giebink, Noel C. - Penn State Mont Alto",16,0
+"Gleason, Lani Uriarte - SIO",16,0
+"Golden, Aaron Alain-Jon - Einstein College of Med",16,0
+"Goodwin, Andrew Pratt - CU Boulder",16,0
+"Greer, Edyta M. - CUNY Baruch College",16,0
+"Grobe, Rainer - Illinois State U",16,0
+"Gu, Qing - UC San Diego",16,0
+"Guerrero Garcia, Guillermo Ivan - Northwestern U",16,0
+"Guo, Dahai - UIUC",16,0
+"Gupta, Vijay Kumar - Colorado State U",16,0
+"Gutfraind, Alexander - U Illinois, Chicago",16,0
+"Habenicht, Bradley - UC Merced",16,0
+"Harbert, William - U Pittsburgh",16,0
+"Hirschi, Jennifer Sue - SUNY Binghamton",16,0
+"Hoffman, Gerald - Edinboro U",16,0
+"Hoffman, Jennifer Lyn - U Denver",16,0
+"Holt, William E. - SUNY Stony Brook",16,0
+"Huang, Guofang - CMU",16,0
+"Huang, Wayne Cheng-Wei - Texas A&M",16,0
+"Huynh, Mioy T - UIUC",16,0
+"Isborn, Christine Marie - UC Merced",16,0
+"Jeffries-EL, Malka - Iowa State U",16,0
+"Johnson, Terrance Lewyne - E Tenn State U",16,0
+"Johnston, Murray V - U Delaware",16,0
+"Jongco, Artemio Miguel - Long Island Jewish Hosp",16,0
+"Juric, Mario - LSST Corp.",16,0
+"Kaliappan, Muthukumar - Emory U",16,0
+"Kapan, Durrell Demetrius - Calif Acad Sci",16,0
+"Kastner, Ryan  - UC San Diego",16,0
+"Kieber-Emmons, Matthew Thomas - U Utah",16,0.08844562446070585
+"Kim, Seung Ha - UC Santa Barbara",16,0
+"Kingsford, Carl  - CMU",16,0
+"Klos, Jacek - U Maryland",16,0.02747353923154858
+"Kurth, Mark J. - UC Davis",16,0
+"La Cava, William G - U Mass, Amherst",16,0
+"Landis, Michael  - UC Berkeley",16,0
+"Litts, Erin N - Cornell U",16,0
+"Liu, Shuang - Yale U",16,0
+"Looney, Leslie W - UIUC",16,0
+"Louie, Janis  - U Utah",16,0
+"Ma, Qin - Walla Walla U",16,0
+"Mack, Katya Luise - UC Berkeley",16,0
+"Malkaram, Sridhar Achary - WV State U",16,0
+"Manning, Patrick - U Pittsburgh",16,0
+"May, Michael Ryan - UC Davis",16,0
+"McClure, James Edward - Virginia Tech",16,0
+"McGinnis, Laura F. - PSC",16,0
+"McKay, John  - Colorado State U",16,0
+"Miller, Ian James - U Wisconsin-Madison",16,0
+"Miller, Thomas F - Caltech",16,0.14770138604799019
+"Milletti, Maria C. - Eastern Michigan U",16,0
+"Minton, Timothy K - Montana State U",16,0
+"Moix, Jeremy M - MIT",16,0
+"Morin, Paul Jeffrey - U Minn",16,0
+"Moye, Roger - UT Anderson Cancer Ctr",16,0.3200000000000002
+"Musgrave, Charles B. - CU Boulder",16,0.051973333144251704
+"Nikoubashman, Arash - Princeton U",16,0
+"O'Brien, Edward - Penn State U",16,0
+"Obradovich, Nicholas - UC San Diego",16,0
+"Olmstead, Marilyn M - UC Davis",16,0
+"Overbey, Jeffrey L. - Auburn U",16,0
+"Palmer, Arthur G - Columbia U",16,0
+"Papadopoulos, Panos - UC Berkeley",16,0
+"Park, Sheldon - SUNY Buffalo",16,0
+"Pfister, Hanspeter - Harvard U",16,0
+"Pique-Regi, Roger - Wayne State U",16,0
+"Price-Whelan, Adrian M - Columbia U",16,0
+"Prince, Bruce M - Texas Southern U",16,0
+"Prytkova, Vera Dmitrievna - UC Irvine",16,0
+"Qi, Xin - Rutgers U",16,0
+"Rastigejev, Yevgenii - NC A&T State U",16,0
+"Regnier, Michael - U Washington",16,0
+"Rodriguez, Carl Louis - Northwestern U",16,0
+"Rojo, Carlos - UC San Francisco",16,0
+"Russell, Joellen - U Arizona",16,0
+"Ruvolo, Paul Lundy - Olin College",16,0
+"Rynge, Mats - USC",16,0
+"Safari, Mehdi - Miami U",16,0
+"Schelter, Eric J - U Pennsylvania",16,0
+"Schoendorff, George - U North Texas",16,0
+"Scott, J. Ray - PSC",16,0
+"Shams, Ladan  - UCLA",16,0
+"Shipman, Steven - New College FL",16,0
+"Simeon, Tomekia Mergendes - Northwestern U",16,0
+"Singh, Rajiv R - UC Davis",16,1.5941980847706592
+"Sivakumar, Pradeep - Northwestern U",16,0
+"Smith, Jeremy C. - U Tennessee",16,0
+"Song, Carol Xiaohui - Purdue U",16,0
+"Standard, Jean M. - Illinois State U",16,0
+"Stanek, Jessica Kate - Duke U",16,0
+"Starovoytov, Oleg N - U Houston-Downtown",16,0
+"Stevens, Jonathan E - U Detroit Mercy",16,0
+"Stewart, Jonathan Paul - UCLA",16,0
+"Stewart, Joshua David - SIO",16,0
+"Thain, Douglas - U Notre Dame",16,0
+"Townshend, Brent  - Stanford U",16,0
+"Tripathi, Swarnendu - U Houston",16,0
+"Tsoukalas, Nasos - UC Davis",16,0
+"Van Heuvelen, Katherine - Harvey Mudd College",16,0
+"Van Vleet, Mary Johanna - U Wisconsin-Madison",16,0
+"Vetticatt, Mathew J - SUNY Binghamton",16,0.056537623108465204
+"Wang, Chenxi - U Maryland",16,0
+"Wang, Junmei - UT Southwestern Med Ctr",16,0
+"Wang, Shenglong - NYU",16,0
+"Wang, Xiaotai - CU Denver",16,0.02646798612318678
+"Webb, Edmund B. - Lehigh U",16,0
+"Wedler, Henry - UC Davis",16,0
+"Wiegand, Rudolf Paul - U Central Florida",16,0
+"Wiest, Olaf G. - U Notre Dame",16,0
+"Wollman, Roy  - UC San Diego",16,0
+"Wong, Stephen - Methodist Hospital System",16,0
+"Wu, Yinghao  - Einstein College of Med",16,0
+"Wuerthwein, Frank - UC San Diego",16,0
+"Xin, Hongliang - Virginia Tech",16,0
+"Yang, Yang - Rowan U",16,0
+"Yu, Feng - Youngstown State U",16,0
+"Zhan, Min - UIUC",16,0
+"Zhang, Peijun - U Pittsburgh Sch of Med",16,0
+"Zhang, Qingyuan - NASA Goddard",16,0
+"cooley, philip chester - RTI Intl",16,0
+"louie, angelique  - UC Davis",16,0
+"von Laszewski, Gregor - Indiana U",16,0
+"Dutta, Indranath  - Washington State U",15,0.911502349307395
+"Fraser, Hunter B - Stanford U",15,0.11587786883202117
+"Kaplan, Michael Samuel Cruz - USC",15,0.06797722234878072
+"Turco, Gina Marie - UC Davis",15,0.1986065588488101
+"White, Douglas R. - UC Irvine",15,0.7143800605713069
+"Aspuru-Guzik, Alan - Harvard U",14,0.031168609257917798
+"Ellisman, Mark - UC San Diego",14,0.017172872421211124
+"Lavie, Alon - CMU",14,0.22465301735609694
+"Tahvildari, Navid - Stanford U",14,0.5172983830268827
+"Gazula, Vikram - U Kentucky",13,0.480145399152969
+"Martz, Jason Brian - U Michigan",13,0.11084037901544769
+"Yan, Zhiqiang - SUNY Stony Brook",13,0.18430725932784217
+"Bierbaum, Veronica - CU Boulder",12,0.133284514523264
+"Johannes, MIchelle - Cornell U",12,0
+"Lamberts, Astrid - U Wisconsin-Milwaukee",12,0
+"Timerghazin, Qadir - Marquette U",12,0.10561355516003176
+"Craig, Stephen - Duke U",11,0.08221684062768887
+"Manz, Thomas A. - NM State U",11,0.08096755440906012
+"Carroll, Thomas James - Ursinus College",10,0.45815878797525617
+"Forger, Daniel - U Michigan",10,0.5255550787449436
+"Pu, Han - Rice U",10,1.3001762582372616
+"Qin, Hong - Spelman Colleg",10,3.2863353450309964
+"Hasegawa-Johnson, Mark - UIUC",9,0.73964253311338
+"Leon, Sofia Elizabeth - UIUC",9,0.9919639386967408
+"Levison, Harold - Southwest Res Inst",9,0.3635444660933736
+"Morton, Thomas Hellman - UC Riverside",9,0.21327436213477624
+"Sebat, Jonathan - UC San Diego",9,0.3886485883728237
+"Beran, Gregory - UC Riverside",8,0.056968759111490415
+"Crane, Jason C - UC San Francisco",8,0.7804485072967446
+"Fujioka, Hideki - Tulane U",8,0.4978252270519994
+"Hutchison, Geoffrey Rogers - U Pittsburgh",8,2.886751345948129
+"Dorfman, Kevin David - U Minn",7,0.7868363059839052
+"Fahey, Mark - U Tennessee",7,0.9289841596842425
+"Faucheaux, Jacob - UIUC",7,0.5391374750619782
+"Halzen, Francis  - U Wisconsin-Madison",7,0.3419755107497908
+"Schanzenbach, David - U Hawaii, Manoa",7,0.1094282987153264
+"Alameda, Jay - UIUC",6,0.46009936339135354
+"Lyon, Jonathan Thomas - Clayton State U",6,0.11246267141125564
+"Nagi, Rakesh - UIUC",6,0.20383012302490125
+"Lovitt, Charity - U Washington",4,0.24642441268397344
+"Senocak, Inanc - Boise State U",3,0
+"Sorin, Daniel - Duke U",3,0.07201360630611349
+"Abbott-Lyon, Heather L - Kennesaw State U",2,0.44193863598788563
+"Babak, Tomas - Stanford U",2,0.08116457296455862
+"Krieger, Donald Nathan - U Pittsburgh",2,0.003659802898251132
+"McClean, Julie L - SIO",2,0
+"Schelling, Patrick Kenneth - U Central Florida",2,0.31763857030368126
+"Stubbs, John Michael - U New England",2,0.04554735548556654
+"Chan, Yvonne Ling-Hsiang - U Hawaii, Manoa",1,0
+"Clementi, Luca - SDSC",1,0
+"Cohen, Joseph - U Mass, Boston",1,0
+"Kannappan, Sheila - UNC",1,0
+"Rhee, David - Einstein College of Med",1,0
+"Schossau, Jorden - Michigan State U",1,0
+"Shafi, Qaisar - U Delaware",1,0
+"Siders, Paul D. - U Minn, Duluth",1,0
+"Snyder, Gregory - STScI",1,0
+"Toonen, Robert - U Hawaii, Manoa",1,0
+"Xie, Paul Z. R. - Einstein College of Med",1,0
+---------
