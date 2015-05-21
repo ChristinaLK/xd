@@ -16,9 +16,16 @@ for file in file_list:
 ##format PI column
 df["PI"] = df["PI"].str.split('-').str[0]
 
-##save to file
-tmp_list = file_list[0].split('_')
-save_file = "../reports/madison"
-for item in tmp_list[-5:]:
-	save_file = save_file+"_"+item
-df.to_csv(save_file, index=False)
+##build file title
+title = "madison"
+file_title_pieces = file_list[0].split('_')
+for item in file_title_pieces[-5:]:
+    title = title+"_"+item
+
+f = open('../reports/title.txt', 'w')
+f.write(title)
+f.close()
+
+df.to_csv('../reports/data.txt', index=False)
+
+print title

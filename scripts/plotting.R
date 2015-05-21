@@ -4,10 +4,10 @@ library(dplyr)
 library(reshape2)
 
 #file name w/o csv extension
-aggregate_file <- "madison_PI_2015-01-01_to_2015-05-01_aggregate"
+aggregate_file <- "madison_PI_2015-04-01_to_2015-04-30_aggregate"
 
 #load prepared csv
-df <- read.csv(paste0(aggregate_file,".csv"))
+df <- read.csv(paste0("reports/",aggregate_file,".csv"), skip=1)
 colnames(df) <- c("PI","CPU_Hours","Max_Cores","Min_Cores","Avg_Cores")
 
 #create graph of total hours used
@@ -18,10 +18,11 @@ total_hours <- df %>%
   coord_flip() +
   theme(panel.background = element_blank(), 
         axis.line = element_line(colour = "black")) +
-  labs(title="Total CPU Hours", y="CPU Hours", x="PI")
+  labs(title=paste(aggregate_file,"Total CPU Hours"), 
+       y="CPU Hours", x="PI")
 
 #save total hours graph
-ggsave(paste0(aggregate_file,"_hours",".png"), 
+ggsave(paste0("reports/",aggregate_file,"_hours",".png"), 
        plot = total_hours, 
        width=6, 
        height=4)
@@ -46,10 +47,11 @@ cpu_usage <- df %>%
   coord_flip() + 
   theme(panel.background = element_blank(), 
         axis.line = element_line(colour = "black")) +
-  labs(title="Core Usage", x="PI", y="Number of Cores", color="")
+  labs(title=paste(aggregate_file,"Core Usage"), 
+       x="PI", y="Number of Cores", color="")
 
 #save CPU use plot
-ggsave(paste0(aggregate_file,"_CPU_use",".png"), 
+ggsave(paste0("reports/",aggregate_file,"_CPU_use",".png"), 
        plot = cpu_usage, 
        width=6, 
        height=4)
