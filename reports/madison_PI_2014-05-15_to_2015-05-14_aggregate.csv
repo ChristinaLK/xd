@@ -1,0 +1,19 @@
+madison_PI_2014-05-15_to_2015-05-14_aggregate.csv 
+PI,CPU Hours: Total,Job Size: Max (Core Count),Job Size: Min (Core Count),Job Size: Per Job (Core Count)
+"Boldyrev, Stanislav ",3595718,4096,16,607
+"Morgan, Dane ",3255053,512,16,47
+"Cui, Qiang ",2501390,512,1,26
+"Xia, Qian ",2198133,2048,16,490
+"Yethiraj, Arun ",1859485,512,1,30
+"Pueschel, Moritz J ",1087998,1536,16,268
+"Voyles, Paul M ",699044,256,16,90
+"Schmidt, Jordan R ",314730,256,16,51
+"Lazarian, Alex ",136180,2048,16,230
+"Zhu, Ping ",102127,2816,16,324
+"Heinz, Sebastian ",82149,960,16,540
+"Fu, Chao ",52461,1008,16,107
+"Van Vleet, Mary Johanna ",23367,16,16,16
+"Halzen, Francis  ",6893,16,1,7
+"Terry, Paul W ",3621,2048,16,104
+"Miller, Ian James ",768,16,16,16
+"Mikulyuk, Alison F ",56,48,16,22
