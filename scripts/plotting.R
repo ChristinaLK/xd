@@ -36,7 +36,7 @@ cpu_usage <- df %>%
   mutate(PI = reorder(PI, Max_Cores)) %>%
   melt(variable.name="Val", value.name = "Num_Cores") %>%  
   ggplot(aes(x=PI, y=Num_Cores, color=Val)) + 
-  geom_point(size=4) + 
+  geom_point(size=2) + 
   geom_linerange(data=df, aes(
     x=PI, 
     y=Avg_Cores, 
